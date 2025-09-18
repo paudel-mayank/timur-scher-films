@@ -3689,6 +3689,18 @@ body {
     line-height: 1em
 }
 
+.philosophie_heading_work {
+    color: var(--white-smoke);
+    letter-spacing: 0;
+    text-transform: uppercase;
+    max-width: 700px;
+    margin: 0 auto 20px;
+    font-family: Helvetica-Neue LT Pro Extended, sans-serif;
+    font-size: 4em;
+    font-weight: 700;
+    line-height: 1em
+}
+
 .philosophie_subheading {
     color: var(--white-smoke);
     letter-spacing: 0;
@@ -3723,7 +3735,7 @@ body {
 }
 
 .kontakt_wrapper {
-    padding-top: 10%;
+    /* padding-top: 10%; */
     padding-left: 7.5%;
     padding-right: 7.5%
 }
@@ -4269,7 +4281,7 @@ body {
 }
 
 .philosophie_text {
-    text-align: center;
+    text-align: left;
     width: 100%;
     padding-bottom: 2.5%;
     padding-left: 7.5%;
@@ -4409,7 +4421,7 @@ body {
 }
 
 .follow_us {
-    padding: 10% 7.5%
+    /* padding: 10% 7.5% */
 }
 
 .google_rezensionen_feed {
@@ -4828,7 +4840,7 @@ body {
     z-index: -1;
     opacity: .15;
     max-width: 100%;
-    margin-top: 6%;
+    margin-top: 30%;
     padding-top: 7.5%;
     padding-bottom: 7.5%;
     font-size: 1em;
@@ -4855,7 +4867,7 @@ body {
     margin-top: 0;
     margin-bottom: 0;
     font-family: Helvetica-Neue LT Pro Extended, sans-serif;
-    font-size: 20vw;
+    font-size: 10vw;
     line-height: 1;
     display: inline-block
 }
@@ -4869,7 +4881,7 @@ body {
     margin-right: 8vw;
     padding-top: 5px;
     font-family: Helvetica-Neue LT Pro Extended, sans-serif;
-    font-size: 20vw;
+    font-size: 1ch;
     font-weight: 700
 }
 
@@ -5168,7 +5180,7 @@ body {
 }
 
 .information_wrapper.sh_wrapper {
-    background-image: linear-gradient(#0000008c, #0000008c), url("../../../Homepage/Automotive/Fotos/Foto\ 01.12.24\,\ 15\ 08\ 49.jpg");
+    background-image: linear-gradient(#0000008c, #0000008c), url("/Homepage/Automotive//Fotos/Foto\ 01.12.24\,\ 15\ 08\ 49.jpg");
     background-position: 0 0, 50%;
     background-size: auto, cover
 }
@@ -8103,4 +8115,59 @@ video {
     font-size: 3em;
     line-height: 1em;
 
+}
+
+/* from outer container margin */
+.tm-philosophie-container {
+    margin: 0px 80px;
+}
+
+/* flex styles */
+.tm-philosophie-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* image wrapper width */
+.tm-philosophie-img {
+    width: 100%;
+}
+
+/* image styles */
+.tm-philosophie-img-el {
+    width: 100%;
+    height: 420px;
+    max-height: 420px;
+    object-fit: cover;
+    object-position: center;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .tm-philosophie-container {
+        margin: 0px 20px;
+    }
+
+    .tm-philosophie-flex {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    /* .tm-philosophie-img-el {
+        height: auto;
+        max-height: none;
+    } */
+
+    .tm-philosophie-img-el {
+        width: 100%;
+        height: 300px;
+        max-height: 300px;
+        object-fit: cover;
+        object-position: ceter;
+    }
+
+    .philosophie_text {
+        margin: 20px 0px;
+    }
 }

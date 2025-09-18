@@ -7,19 +7,16 @@
         data-nav-spacing="10" data-duration="750" data-infinite="true">
         <div class="mask atf_scaling_up w-slider-mask">
           <div class="slide_vorlage slide_1 rr_slide_video w-slide">
-            <div
-              data-poster-url="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60ac0cc200e8876bb293a30f_ZPerformanceFelge-poster-00001.jpg"
-              data-video-urls="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60ac0cc200e8876bb293a30f_ZPerformanceFelge-transcode.mp4,https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60ac0cc200e8876bb293a30f_ZPerformanceFelge-transcode.webm"
+            <div data-poster-url="https://public/60ac0cc200e8876bb293a30f_ZPerformanceFelge-poster-00001.jpg"
+              data-video-urls="https://public/60ac0cc200e8876bb293a30f_ZPerformanceFelge-transcode.mp4,https://public/60ac0cc200e8876bb293a30f_ZPerformanceFelge-transcode.webm"
               data-autoplay="true" data-loop="true" data-wf-ignore="true"
               class="rr_video w-background-video w-background-video-atom"><video
                 id="c98830b5-b994-1950-33e5-975eda0130fd-video" autoplay="" loop=""
-                style="background-image:url(_https_/cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60ac0cc200e8876bb293a30f_ZPerformanceFelge-poster-00001.html)"
+                style="background-image:url(_https_/public/60ac0cc200e8876bb293a30f_ZPerformanceFelge-poster-00001.html)"
                 muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
-                <source
-                  src="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60ac0cc200e8876bb293a30f_ZPerformanceFelge-transcode.mp4"
+                <source src="https://public/60ac0cc200e8876bb293a30f_ZPerformanceFelge-transcode.mp4"
                   data-wf-ignore="true" />
-                <source
-                  src="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60ac0cc200e8876bb293a30f_ZPerformanceFelge-transcode.webm"
+                <source src="https://public/60ac0cc200e8876bb293a30f_ZPerformanceFelge-transcode.webm"
                   data-wf-ignore="true" />
               </video>
               <div class="atv_heading_wrapper">
@@ -66,38 +63,31 @@
       <div class="atf_partners_endless_loop">
         <div class="container-inner endless_loop">
           <div class="partners_logoline partners_first_logoline"><img
-              src="../../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa3d83277fc01300ecd197e_brabus_logo.png"
-              loading="lazy" alt="" class="partners_logoline_logo" /><img
-              src="../../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa9841df755a7059fc27b32_bbs_logo_white.png"
+              src="../../public/5fa3d83277fc01300ecd197e_brabus_logo.png" loading="lazy" alt=""
+              class="partners_logoline_logo" /><img src="../../public/5fa9841df755a7059fc27b32_bbs_logo_white.png"
               loading="lazy" sizes="100px"
-              srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa9841df755a7059fc27b32_bbs_logo_white-p-500.png 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa9841df755a7059fc27b32_bbs_logo_white.png 567w"
+              srcset="https://public/5fa9841df755a7059fc27b32_bbs_logo_white-p-500.png 500w, https://public/5fa9841df755a7059fc27b32_bbs_logo_white.png 567w"
               alt="" class="partners_logoline_logo" /><img
-              src="../../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa9841a1746001281bc8eca_oz-racing_logo.png"
-              loading="lazy" sizes="100px"
-              srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa9841a1746001281bc8eca_oz-racing_logo-p-500.png 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa9841a1746001281bc8eca_oz-racing_logo.png 553w"
+              src="../../public/5fa9841a1746001281bc8eca_oz-racing_logo.png" loading="lazy" sizes="100px"
+              srcset="https://public/5fa9841a1746001281bc8eca_oz-racing_logo-p-500.png 500w, https://public/5fa9841a1746001281bc8eca_oz-racing_logo.png 553w"
               alt="" class="partners_logoline_logo" /><img
-              src="../../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa9841a69ea662eb8dec3ee_aez_logo_white.png"
-              loading="lazy" alt="" class="partners_logoline_logo" /><img
-              src="../../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa3d832f20d73bf83ba1410_amg_logo.png"
+              src="../../public/5fa9841a69ea662eb8dec3ee_aez_logo_white.png" loading="lazy" alt=""
+              class="partners_logoline_logo" /><img src="../../public/5fa3d832f20d73bf83ba1410_amg_logo.png"
               loading="lazy" sizes="100px"
-              srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa3d832f20d73bf83ba1410_amg_logo-p-500.png 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa3d832f20d73bf83ba1410_amg_logo-p-800.png 800w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa3d832f20d73bf83ba1410_amg_logo-p-1080.png 1080w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa3d832f20d73bf83ba1410_amg_logo-p-1600.png 1600w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa3d832f20d73bf83ba1410_amg_logo.png 2000w"
+              srcset="https://public/5fa3d832f20d73bf83ba1410_amg_logo-p-500.png 500w, https://public/5fa3d832f20d73bf83ba1410_amg_logo-p-800.png 800w, https://public/5fa3d832f20d73bf83ba1410_amg_logo-p-1080.png 1080w, https://public/5fa3d832f20d73bf83ba1410_amg_logo-p-1600.png 1600w, https://public/5fa3d832f20d73bf83ba1410_amg_logo.png 2000w"
               alt="" class="partners_logoline_logo" /></div>
-          <div class="partners_logoline"><img
-              src="../../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa3d83277fc01300ecd197e_brabus_logo.png"
-              loading="lazy" alt="" class="partners_logoline_logo" /><img
-              src="../../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa9841df755a7059fc27b32_bbs_logo_white.png"
-              loading="lazy" sizes="100px"
-              srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa9841df755a7059fc27b32_bbs_logo_white-p-500.png 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa9841df755a7059fc27b32_bbs_logo_white.png 567w"
+          <div class="partners_logoline"><img src="../../public/5fa3d83277fc01300ecd197e_brabus_logo.png" loading="lazy"
               alt="" class="partners_logoline_logo" /><img
-              src="../../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa9841a1746001281bc8eca_oz-racing_logo.png"
-              loading="lazy" sizes="100px"
-              srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa9841a1746001281bc8eca_oz-racing_logo-p-500.png 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa9841a1746001281bc8eca_oz-racing_logo.png 553w"
+              src="../../public/5fa9841df755a7059fc27b32_bbs_logo_white.png" loading="lazy" sizes="100px"
+              srcset="https://public/5fa9841df755a7059fc27b32_bbs_logo_white-p-500.png 500w, https://public/5fa9841df755a7059fc27b32_bbs_logo_white.png 567w"
               alt="" class="partners_logoline_logo" /><img
-              src="../../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa9841a69ea662eb8dec3ee_aez_logo_white.png"
-              loading="lazy" alt="" class="partners_logoline_logo" /><img
-              src="../../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa3d832f20d73bf83ba1410_amg_logo.png"
+              src="../../public/5fa9841a1746001281bc8eca_oz-racing_logo.png" loading="lazy" sizes="100px"
+              srcset="https://public/5fa9841a1746001281bc8eca_oz-racing_logo-p-500.png 500w, https://public/5fa9841a1746001281bc8eca_oz-racing_logo.png 553w"
+              alt="" class="partners_logoline_logo" /><img
+              src="../../public/5fa9841a69ea662eb8dec3ee_aez_logo_white.png" loading="lazy" alt=""
+              class="partners_logoline_logo" /><img src="../../public/5fa3d832f20d73bf83ba1410_amg_logo.png"
               loading="lazy" sizes="100px"
-              srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa3d832f20d73bf83ba1410_amg_logo-p-500.png 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa3d832f20d73bf83ba1410_amg_logo-p-800.png 800w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa3d832f20d73bf83ba1410_amg_logo-p-1080.png 1080w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa3d832f20d73bf83ba1410_amg_logo-p-1600.png 1600w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fa3d832f20d73bf83ba1410_amg_logo.png 2000w"
+              srcset="https://public/5fa3d832f20d73bf83ba1410_amg_logo-p-500.png 500w, https://public/5fa3d832f20d73bf83ba1410_amg_logo-p-800.png 800w, https://public/5fa3d832f20d73bf83ba1410_amg_logo-p-1080.png 1080w, https://public/5fa3d832f20d73bf83ba1410_amg_logo-p-1600.png 1600w, https://public/5fa3d832f20d73bf83ba1410_amg_logo.png 2000w"
               alt="" class="partners_logoline_logo" /></div>
         </div>
       </div>
@@ -148,23 +138,23 @@
     <div class="kontakt_wrapper">
       <div class="kontakt_info">
         <div id="w-node-a7b205e3-6724-c1de-1da2-60ef1d2fb32b-1d2fb328" class="kontakt_info_block"><img
-            src="../../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe4625c882141c6f551a97_kontakt_weiss.png"
-            loading="lazy" width="80" alt="" class="kontakt_info_bild" />
+            src="../../public/5fbe4625c882141c6f551a97_kontakt_weiss.png" loading="lazy" width="80" alt=""
+            class="kontakt_info_bild" />
           <h4 class="kontakt_info_heading">Telefon &amp; E-Mail</h4>
           <p class="kontakt_info_paragraph"><strong>T: </strong><a href="tel:052476228530" class="link-2">05247 6228
               530</a><strong><br />E: </strong><a href="mailto:info@Timur Scher Films.de" class="link-4">info@Timur
               Scher Films.de</a></p>
         </div>
         <div id="w-node-a7b205e3-6724-c1de-1da2-60ef1d2fb33b-1d2fb328" class="kontakt_info_block"><img
-            src="../../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe46258416f6e33bb818d9_standort_weiss.png"
-            loading="lazy" width="80" alt="" class="kontakt_info_bild" />
+            src="../../public/5fbe46258416f6e33bb818d9_standort_weiss.png" loading="lazy" width="80" alt=""
+            class="kontakt_info_bild" />
           <h4 class="kontakt_info_heading">Standort</h4>
           <p class="kontakt_info_paragraph">Möllenbrocksweg 21,<br />33428 Harsewinkel<br /></p>
         </div>
         <div id="w-node-a7b205e3-6724-c1de-1da2-60ef1d2fb345-1d2fb328" class="kontakt_info_block"><img
-            src="../../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe46256e22447a483a02da_oeffnungszeiten_weiss.png"
-            loading="lazy" width="80" sizes="(max-width: 1279px) 80px, (max-width: 1439px) 6vw, 80px" alt=""
-            srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe46256e22447a483a02da_oeffnungszeiten_weiss-p-500.png 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe46256e22447a483a02da_oeffnungszeiten_weiss.png 512w"
+            src="../../public/5fbe46256e22447a483a02da_oeffnungszeiten_weiss.png" loading="lazy" width="80"
+            sizes="(max-width: 1279px) 80px, (max-width: 1439px) 6vw, 80px" alt=""
+            srcset="https://public/5fbe46256e22447a483a02da_oeffnungszeiten_weiss-p-500.png 500w, https://public/5fbe46256e22447a483a02da_oeffnungszeiten_weiss.png 512w"
             class="kontakt_info_bild" />
           <h4 class="kontakt_info_heading">Öffnungszeiten</h4>
           <p class="kontakt_info_paragraph"><strong>Mo. – Fr.:<br /></strong>08:00 – 18:00 Uhr</p>

@@ -190,9 +190,8 @@
 <div class="house_of_brands">
   <div class="div-block-50">
     <div id="w-node-_12bf5022-6f57-3e0c-8090-de37dcd16bda-1db54d10"><img
-        src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5f934878ca4552b8ffcfa983_mvc_logo_white.png"
-        loading="lazy" sizes="100vw" width="200" alt=""
-        srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5f934878ca4552b8ffcfa983_mvc_logo_white-p-500.png 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5f934878ca4552b8ffcfa983_mvc_logo_white.png 1181w"
+        src="../public/5f934878ca4552b8ffcfa983_mvc_logo_white.png" loading="lazy" sizes="100vw" width="200" alt=""
+        srcset="https://public/5f934878ca4552b8ffcfa983_mvc_logo_white-p-500.png 500w, https://public/5f934878ca4552b8ffcfa983_mvc_logo_white.png 1181w"
         class="image-11" /></div>
     <div class="div-block-51">
       <div class="hob_x">X</div>
@@ -208,61 +207,57 @@
       <div id="w-node-f838b830-a468-1ddf-d988-021686b43067-1db54d10" class="member_block"><a
           href="https://www.instagram.com/ilham.mvc/" target="_blank"
           class="team_member_social_absolute w-inline-block"></a><img
-          src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b63cf1628ab57c105a46b7_ilham_2.jpg"
-          loading="lazy"
+          src="../public/60b63cf1628ab57c105a46b7_ilham_2.jpg" loading="lazy"
           sizes="(max-width: 479px) 300px, (max-width: 767px) 19vw, (max-width: 991px) 24vw, (max-width: 1439px) 41vw, 42vw"
-          srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b63cf1628ab57c105a46b7_ilham_2-p-500.jpeg 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b63cf1628ab57c105a46b7_ilham_2-p-800.jpeg 800w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b63cf1628ab57c105a46b7_ilham_2-p-1080.jpeg 1080w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b63cf1628ab57c105a46b7_ilham_2.jpg 1280w"
+          srcset="https://public/60b63cf1628ab57c105a46b7_ilham_2-p-500.jpeg 500w, https://public/60b63cf1628ab57c105a46b7_ilham_2-p-800.jpeg 800w, https://public/60b63cf1628ab57c105a46b7_ilham_2-p-1080.jpeg 1080w, https://public/60b63cf1628ab57c105a46b7_ilham_2.jpg 1280w"
           alt="" class="member_image" />
         <div class="team_member_text">
           <h2 class="team_member_name">Ilham <br />Mulaomerovic</h2>
           <p class="team_member_position">Gründer</p>
           <div class="team_member_social_media"><a href="https://www.facebook.com/ilham.mulaomerovic" target="_blank"
               class="team_member_social_media_link w-inline-block"><img
-                src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fd21c2c16c98a5608bdff6d_facebook-icon-white%20Kopie.png"
-                loading="lazy" width="20" alt="" class="team_member_social_media_logo" /></a><a
-              href="https://www.instagram.com/ilham.mvc/" target="_blank"
-              class="team_member_social_media_link w-inline-block"><img
-                src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cecc0d8c364512c09e7f_instagram-logo_weiss.png"
-                loading="lazy" width="20" alt="" class="team_member_social_media_logo" /></a><a
+                src="../public/5fd21c2c16c98a5608bdff6d_facebook-icon-white%20Kopie.png" loading="lazy" width="20"
+                alt="" class="team_member_social_media_logo" /></a><a href="https://www.instagram.com/ilham.mvc/"
+              target="_blank" class="team_member_social_media_link w-inline-block"><img
+                src="../public/5ff4cecc0d8c364512c09e7f_instagram-logo_weiss.png" loading="lazy" width="20" alt=""
+                class="team_member_social_media_logo" /></a><a
               href="mailto:ilham.mulaomerovic@Timur Scher Films.de?subject=Web%3A%20Neue%20Nachricht!"
               class="team_member_social_media_link w-inline-block"><img
-                src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png"
-                loading="lazy" width="20" sizes="100vw" alt=""
-                srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cf5823575d6fa0f48bc1_icons8-envelope-p-500.png 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png 512w"
+                src="../public/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png" loading="lazy" width="20" sizes="100vw"
+                alt=""
+                srcset="https://public/5ff4cf5823575d6fa0f48bc1_icons8-envelope-p-500.png 500w, https://public/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png 512w"
                 class="team_member_social_media_logo" /></a></div>
         </div>
       </div>
       <div id="w-node-f838b830-a468-1ddf-d988-021686b43078-1db54d10" class="member_block"><a
           href="https://www.instagram.com/ammar.mvc/" target="_blank"
-          class="team_member_social_absolute w-inline-block"></a><img
-          src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113bbaf858c4fa2ab7056_ammar.jpg" loading="lazy"
+          class="team_member_social_absolute w-inline-block"></a><img src="../public/60b113bbaf858c4fa2ab7056_ammar.jpg"
+          loading="lazy"
           sizes="(max-width: 479px) 77.15625px, (max-width: 767px) 19vw, (max-width: 991px) 24vw, (max-width: 1439px) 41vw, 42vw"
-          srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113bbaf858c4fa2ab7056_ammar-p-500.jpeg 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113bbaf858c4fa2ab7056_ammar-p-800.jpeg 800w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113bbaf858c4fa2ab7056_ammar-p-1080.jpeg 1080w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113bbaf858c4fa2ab7056_ammar.jpg 1280w"
+          srcset="https://public/60b113bbaf858c4fa2ab7056_ammar-p-500.jpeg 500w, https://public/60b113bbaf858c4fa2ab7056_ammar-p-800.jpeg 800w, https://public/60b113bbaf858c4fa2ab7056_ammar-p-1080.jpeg 1080w, https://public/60b113bbaf858c4fa2ab7056_ammar.jpg 1280w"
           alt="" class="member_image" />
         <div class="team_member_text">
           <h2 class="team_member_name">Ammar <br />Mulaomerovic</h2>
           <p class="team_member_position">Geschäftsführer &amp; Folientechniker</p>
           <div class="team_member_social_media"><a href="https://www.facebook.com/ammar.mulaomerovic" target="_blank"
               class="team_member_social_media_link w-inline-block"><img
-                src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fd21c2c16c98a5608bdff6d_facebook-icon-white%20Kopie.png"
-                loading="lazy" width="20" alt="" class="team_member_social_media_logo" /></a><a
-              href="https://www.instagram.com/ammar.mvc/" target="_blank"
-              class="team_member_social_media_link w-inline-block"><img
-                src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cecc0d8c364512c09e7f_instagram-logo_weiss.png"
-                loading="lazy" width="20" alt="" class="team_member_social_media_logo" /></a><a
+                src="../public/5fd21c2c16c98a5608bdff6d_facebook-icon-white%20Kopie.png" loading="lazy" width="20"
+                alt="" class="team_member_social_media_logo" /></a><a href="https://www.instagram.com/ammar.mvc/"
+              target="_blank" class="team_member_social_media_link w-inline-block"><img
+                src="../public/5ff4cecc0d8c364512c09e7f_instagram-logo_weiss.png" loading="lazy" width="20" alt=""
+                class="team_member_social_media_logo" /></a><a
               href="mailto:ammar.mulaomerovic@Timur Scher Films.de?subject=Web%3A%20Neue%20Nachricht!"
               class="team_member_social_media_link w-inline-block"><img
-                src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png"
-                loading="lazy" width="20" sizes="100vw" alt=""
-                srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cf5823575d6fa0f48bc1_icons8-envelope-p-500.png 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png 512w"
+                src="../public/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png" loading="lazy" width="20" sizes="100vw"
+                alt=""
+                srcset="https://public/5ff4cf5823575d6fa0f48bc1_icons8-envelope-p-500.png 500w, https://public/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png 512w"
                 class="team_member_social_media_logo" /></a></div>
         </div>
       </div>
       <div id="w-node-f838b830-a468-1ddf-d988-021686b43089-1db54d10" class="member_block"><a href="#" target="_blank"
-          class="team_member_social_absolute w-inline-block"></a><img
-          src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113ba3e81a18241ddff94_david.jpg" loading="lazy"
-          sizes="(max-width: 991px) 300px, (max-width: 1439px) 41vw, 42vw"
-          srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113ba3e81a18241ddff94_david-p-500.jpeg 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113ba3e81a18241ddff94_david-p-800.jpeg 800w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113ba3e81a18241ddff94_david-p-1080.jpeg 1080w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113ba3e81a18241ddff94_david.jpg 1280w"
+          class="team_member_social_absolute w-inline-block"></a><img src="../public/60b113ba3e81a18241ddff94_david.jpg"
+          loading="lazy" sizes="(max-width: 991px) 300px, (max-width: 1439px) 41vw, 42vw"
+          srcset="https://public/60b113ba3e81a18241ddff94_david-p-500.jpeg 500w, https://public/60b113ba3e81a18241ddff94_david-p-800.jpeg 800w, https://public/60b113ba3e81a18241ddff94_david-p-1080.jpeg 1080w, https://public/60b113ba3e81a18241ddff94_david.jpg 1280w"
           alt="" class="member_image" />
         <div class="team_member_text">
           <h2 class="team_member_name">David<br />Benteler</h2>
@@ -270,193 +265,180 @@
           <div class="team_member_social_media hide"><a
               href="mailto:benteler@Timur Scher Films.de?subject=Web%3A%20Neue%20Nachricht!"
               class="team_member_social_media_link w-inline-block"><img
-                src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png"
-                loading="lazy" width="20" sizes="100vw" alt=""
-                srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cf5823575d6fa0f48bc1_icons8-envelope-p-500.png 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png 512w"
+                src="../public/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png" loading="lazy" width="20" sizes="100vw"
+                alt=""
+                srcset="https://public/5ff4cf5823575d6fa0f48bc1_icons8-envelope-p-500.png 500w, https://public/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png 512w"
                 class="team_member_social_media_logo" /></a></div>
         </div>
       </div>
       <div id="w-node-f838b830-a468-1ddf-d988-021686b43096-1db54d10" class="member_block hidden"><a href="#"
           class="team_member_social_absolute"></a><img
-          src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/64146d83fa08d908666366a3_Timur Scher Films-gabriella-bagandi.jpg"
-          loading="lazy"
+          src="../public/64146d83fa08d908666366a3_Timur Scher Films-gabriella-bagandi.jpg" loading="lazy"
           sizes="(max-width: 479px) 77.15625px, (max-width: 767px) 19vw, (max-width: 991px) 24vw, (max-width: 1439px) 41vw, 42vw"
-          srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/64146d83fa08d908666366a3_Timur Scher Films-gabriella-bagandi-p-500.jpg 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/64146d83fa08d908666366a3_Timur Scher Films-gabriella-bagandi-p-800.jpg 800w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/64146d83fa08d908666366a3_Timur Scher Films-gabriella-bagandi-p-1080.jpg 1080w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/64146d83fa08d908666366a3_Timur Scher Films-gabriella-bagandi.jpg 1280w"
+          srcset="https://public/64146d83fa08d908666366a3_Timur Scher Films-gabriella-bagandi-p-500.jpg 500w, https://public/64146d83fa08d908666366a3_Timur Scher Films-gabriella-bagandi-p-800.jpg 800w, https://public/64146d83fa08d908666366a3_Timur Scher Films-gabriella-bagandi-p-1080.jpg 1080w, https://public/64146d83fa08d908666366a3_Timur Scher Films-gabriella-bagandi.jpg 1280w"
           alt="" class="member_image" />
         <div class="team_member_text">
           <h2 class="team_member_name">Gabriela Bagandi</h2>
           <p class="team_member_position">Duale Studentin</p>
           <div class="team_member_social_media"><a href="https://www.instagram.com/Gabi.Bagandi/" target="_blank"
               class="team_member_social_media_link hide w-inline-block"><img
-                src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cecc0d8c364512c09e7f_instagram-logo_weiss.png"
-                loading="lazy" width="20" alt="" class="team_member_social_media_logo" /></a><a
+                src="../public/5ff4cecc0d8c364512c09e7f_instagram-logo_weiss.png" loading="lazy" width="20" alt=""
+                class="team_member_social_media_logo" /></a><a
               href="mailto:gabi-bagandi@Timur Scher Films.de?subject=Web%3A%20Neue%20Nachricht!"
               class="team_member_social_media_link w-inline-block"><img
-                src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png"
-                loading="lazy" width="20" sizes="100vw" alt=""
-                srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cf5823575d6fa0f48bc1_icons8-envelope-p-500.png 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png 512w"
+                src="../public/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png" loading="lazy" width="20" sizes="100vw"
+                alt=""
+                srcset="https://public/5ff4cf5823575d6fa0f48bc1_icons8-envelope-p-500.png 500w, https://public/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png 512w"
                 class="team_member_social_media_logo" /></a></div>
         </div>
       </div>
       <div id="w-node-f838b830-a468-1ddf-d988-021686b430a7-1db54d10" class="member_block hide"><a
           href="https://www.instagram.com/siopda/" target="_blank"
           class="team_member_social_absolute w-inline-block"></a><img
-          src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b3bb15be1c3f11e83babd8_shirin.jpg"
-          loading="lazy" sizes="100vw"
-          srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b3bb15be1c3f11e83babd8_shirin-p-500.jpeg 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b3bb15be1c3f11e83babd8_shirin-p-800.jpeg 800w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b3bb15be1c3f11e83babd8_shirin-p-1080.jpeg 1080w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b3bb15be1c3f11e83babd8_shirin.jpg 1280w"
+          src="../public/60b3bb15be1c3f11e83babd8_shirin.jpg" loading="lazy" sizes="100vw"
+          srcset="https://public/60b3bb15be1c3f11e83babd8_shirin-p-500.jpeg 500w, https://public/60b3bb15be1c3f11e83babd8_shirin-p-800.jpeg 800w, https://public/60b3bb15be1c3f11e83babd8_shirin-p-1080.jpeg 1080w, https://public/60b3bb15be1c3f11e83babd8_shirin.jpg 1280w"
           alt="" class="member_image" />
         <div class="team_member_text">
           <h2 class="team_member_name">Sirin <br />Zorlu</h2>
           <p class="team_member_position">Auszubildende Verkaufsberaterin</p>
           <div class="team_member_social_media"><a href="https://www.facebook.com/sirin.zorlu.315" target="_blank"
               class="team_member_social_media_link w-inline-block"><img
-                src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fd21c2c16c98a5608bdff6d_facebook-icon-white%20Kopie.png"
-                loading="lazy" width="20" alt="" class="team_member_social_media_logo" /></a><a
-              href="https://www.instagram.com/siopda/" target="_blank"
+                src="../public/5fd21c2c16c98a5608bdff6d_facebook-icon-white%20Kopie.png" loading="lazy" width="20"
+                alt="" class="team_member_social_media_logo" /></a><a href="https://www.instagram.com/siopda/"
+              target="_blank" class="team_member_social_media_link w-inline-block"><img
+                src="../public/5ff4cecc0d8c364512c09e7f_instagram-logo_weiss.png" loading="lazy" width="256" alt=""
+                class="team_member_social_media_logo" /></a><a href="mailto:sirin.zorlu@Timur Scher Films.de"
               class="team_member_social_media_link w-inline-block"><img
-                src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cecc0d8c364512c09e7f_instagram-logo_weiss.png"
-                loading="lazy" width="256" alt="" class="team_member_social_media_logo" /></a><a
-              href="mailto:sirin.zorlu@Timur Scher Films.de" class="team_member_social_media_link w-inline-block"><img
-                src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png"
-                loading="lazy" width="25" sizes="100vw" alt=""
-                srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cf5823575d6fa0f48bc1_icons8-envelope-p-500.png 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png 512w"
+                src="../public/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png" loading="lazy" width="25" sizes="100vw"
+                alt=""
+                srcset="https://public/5ff4cf5823575d6fa0f48bc1_icons8-envelope-p-500.png 500w, https://public/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png 512w"
                 class="team_member_social_media_logo" /></a></div>
         </div>
       </div>
       <div id="w-node-f838b830-a468-1ddf-d988-021686b430b8-1db54d10" class="member_block hide"><a
           href="https://www.instagram.com/jessebaldw/" target="_blank"
           class="team_member_social_absolute w-inline-block"></a><img
-          src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/631e077dd44a436beb9c4409_Timur Scher Films_jesse-lee-baldwin.jpg"
-          loading="lazy" sizes="100vw"
-          srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/631e077dd44a436beb9c4409_Timur Scher Films_jesse-lee-baldwin-p-500.jpg 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/631e077dd44a436beb9c4409_Timur Scher Films_jesse-lee-baldwin-p-800.jpg 800w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/631e077dd44a436beb9c4409_Timur Scher Films_jesse-lee-baldwin.jpg 890w"
+          src="../public/631e077dd44a436beb9c4409_Timur Scher Films_jesse-lee-baldwin.jpg" loading="lazy" sizes="100vw"
+          srcset="https://public/631e077dd44a436beb9c4409_Timur Scher Films_jesse-lee-baldwin-p-500.jpg 500w, https://public/631e077dd44a436beb9c4409_Timur Scher Films_jesse-lee-baldwin-p-800.jpg 800w, https://public/631e077dd44a436beb9c4409_Timur Scher Films_jesse-lee-baldwin.jpg 890w"
           alt="" class="member_image" />
         <div class="team_member_text">
           <h2 class="team_member_name">Jesse-Lee Baldwin</h2>
           <p class="team_member_position">Junior Sales Manager</p>
           <div class="team_member_social_media"><a href="https://www.facebook.com/sirin.zorlu.315" target="_blank"
               class="team_member_social_media_link hide w-inline-block"><img
-                src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fd21c2c16c98a5608bdff6d_facebook-icon-white%20Kopie.png"
-                loading="lazy" width="20" alt="" class="team_member_social_media_logo" /></a><a
-              href="https://www.instagram.com/jessebaldw/" target="_blank"
-              class="team_member_social_media_link w-inline-block"><img
-                src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cecc0d8c364512c09e7f_instagram-logo_weiss.png"
-                loading="lazy" width="256" alt="" class="team_member_social_media_logo" /></a><a
+                src="../public/5fd21c2c16c98a5608bdff6d_facebook-icon-white%20Kopie.png" loading="lazy" width="20"
+                alt="" class="team_member_social_media_logo" /></a><a href="https://www.instagram.com/jessebaldw/"
+              target="_blank" class="team_member_social_media_link w-inline-block"><img
+                src="../public/5ff4cecc0d8c364512c09e7f_instagram-logo_weiss.png" loading="lazy" width="256" alt=""
+                class="team_member_social_media_logo" /></a><a
               href="mailto:jesse.baldwin@Timur Scher Films.de?subject=Web%3A%20Neue%20Nachricht!"
               class="team_member_social_media_link w-inline-block"><img
-                src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png"
-                loading="lazy" width="25" sizes="100vw" alt=""
-                srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cf5823575d6fa0f48bc1_icons8-envelope-p-500.png 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png 512w"
+                src="../public/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png" loading="lazy" width="25" sizes="100vw"
+                alt=""
+                srcset="https://public/5ff4cf5823575d6fa0f48bc1_icons8-envelope-p-500.png 500w, https://public/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png 512w"
                 class="team_member_social_media_logo" /></a></div>
         </div>
       </div>
       <div id="w-node-f838b830-a468-1ddf-d988-021686b430c7-1db54d10" class="member_block hide"><img
-          src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113bb9e6d9bbe9e051286_lucas.jpg" loading="lazy"
-          sizes="100vw"
-          srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113bb9e6d9bbe9e051286_lucas-p-500.jpeg 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113bb9e6d9bbe9e051286_lucas-p-800.jpeg 800w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113bb9e6d9bbe9e051286_lucas-p-1080.jpeg 1080w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113bb9e6d9bbe9e051286_lucas.jpg 1280w"
+          src="../public/60b113bb9e6d9bbe9e051286_lucas.jpg" loading="lazy" sizes="100vw"
+          srcset="https://public/60b113bb9e6d9bbe9e051286_lucas-p-500.jpeg 500w, https://public/60b113bb9e6d9bbe9e051286_lucas-p-800.jpeg 800w, https://public/60b113bb9e6d9bbe9e051286_lucas-p-1080.jpeg 1080w, https://public/60b113bb9e6d9bbe9e051286_lucas.jpg 1280w"
           alt="" class="member_image" />
         <div class="team_member_text">
           <h2 class="team_member_name">Lucas <br />Göcht</h2>
           <p class="team_member_position">Werkstattleiter</p>
           <div class="team_member_social_media"><a href="https://www.facebook.com/lucas.gocht.7" target="_blank"
               class="team_member_social_media_link w-inline-block"><img
-                src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fd21c2c16c98a5608bdff6d_facebook-icon-white%20Kopie.png"
-                loading="lazy" width="25" alt="" class="team_member_social_media_logo" /></a><a
-              href="https://www.instagram.com/lucvs_mvc/" target="_blank"
-              class="team_member_social_media_link w-inline-block"><img
-                src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cecc0d8c364512c09e7f_instagram-logo_weiss.png"
-                loading="lazy" width="25" alt="" class="team_member_social_media_logo" /></a></div>
+                src="../public/5fd21c2c16c98a5608bdff6d_facebook-icon-white%20Kopie.png" loading="lazy" width="25"
+                alt="" class="team_member_social_media_logo" /></a><a href="https://www.instagram.com/lucvs_mvc/"
+              target="_blank" class="team_member_social_media_link w-inline-block"><img
+                src="../public/5ff4cecc0d8c364512c09e7f_instagram-logo_weiss.png" loading="lazy" width="25" alt=""
+                class="team_member_social_media_logo" /></a></div>
         </div>
       </div>
       <div id="w-node-f838b830-a468-1ddf-d988-021686b430d5-1db54d10" class="member_block"><a
           href="https://www.facebook.com/sascha.wapelhorst" target="_blank"
           class="team_member_social_absolute w-inline-block"></a><img
-          src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113bb1e05a1141754a0e7_sascha.jpg"
-          loading="lazy"
+          src="../public/60b113bb1e05a1141754a0e7_sascha.jpg" loading="lazy"
           sizes="(max-width: 479px) 300px, (max-width: 767px) 19vw, (max-width: 991px) 24vw, (max-width: 1439px) 41vw, 42vw"
-          srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113bb1e05a1141754a0e7_sascha-p-500.jpeg 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113bb1e05a1141754a0e7_sascha.jpg 1280w"
+          srcset="https://public/60b113bb1e05a1141754a0e7_sascha-p-500.jpeg 500w, https://public/60b113bb1e05a1141754a0e7_sascha.jpg 1280w"
           alt="" class="member_image" />
         <div class="team_member_text">
           <h2 class="team_member_name">Sascha Wapelhorst</h2>
           <p class="team_member_position">Betriebselektroniker</p>
           <div class="team_member_social_media"><a href="https://www.facebook.com/sascha.wapelhorst" target="_blank"
               class="team_member_social_media_link w-inline-block"><img
-                src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fd21c2c16c98a5608bdff6d_facebook-icon-white%20Kopie.png"
-                loading="lazy" width="20" alt="" class="team_member_social_media_logo" /></a><a
-              href="https://www.instagram.com/xfx64/" target="_blank"
-              class="team_member_social_media_link w-inline-block"><img
-                src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cecc0d8c364512c09e7f_instagram-logo_weiss.png"
-                loading="lazy" width="25" alt="" class="team_member_social_media_logo" /></a></div>
+                src="../public/5fd21c2c16c98a5608bdff6d_facebook-icon-white%20Kopie.png" loading="lazy" width="20"
+                alt="" class="team_member_social_media_logo" /></a><a href="https://www.instagram.com/xfx64/"
+              target="_blank" class="team_member_social_media_link w-inline-block"><img
+                src="../public/5ff4cecc0d8c364512c09e7f_instagram-logo_weiss.png" loading="lazy" width="25" alt=""
+                class="team_member_social_media_logo" /></a></div>
         </div>
       </div>
       <div id="w-node-f838b830-a468-1ddf-d988-021686b430e2-1db54d10" class="member_block hide"><a
           href="https://www.instagram.com/alem.bsc/" target="_blank"
           class="team_member_social_absolute w-inline-block"></a><img
-          src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/626692ded7c50970ea0c3050_lukasz_kaminski_mvc.jpg"
-          loading="lazy" width="225" sizes="100vw" alt=""
-          srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/626692ded7c50970ea0c3050_lukasz_kaminski_mvc-p-500.jpeg 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/626692ded7c50970ea0c3050_lukasz_kaminski_mvc-p-800.jpeg 800w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/626692ded7c50970ea0c3050_lukasz_kaminski_mvc-p-1080.jpeg 1080w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/626692ded7c50970ea0c3050_lukasz_kaminski_mvc.jpg 1280w"
+          src="../public/626692ded7c50970ea0c3050_lukasz_kaminski_mvc.jpg" loading="lazy" width="225" sizes="100vw"
+          alt=""
+          srcset="https://public/626692ded7c50970ea0c3050_lukasz_kaminski_mvc-p-500.jpeg 500w, https://public/626692ded7c50970ea0c3050_lukasz_kaminski_mvc-p-800.jpeg 800w, https://public/626692ded7c50970ea0c3050_lukasz_kaminski_mvc-p-1080.jpeg 1080w, https://public/626692ded7c50970ea0c3050_lukasz_kaminski_mvc.jpg 1280w"
           class="member_image" />
         <div class="team_member_text">
           <h2 class="team_member_name">Lukasz<br />Kaminski</h2>
           <p class="team_member_position">Serviceleiter</p>
           <div class="team_member_social_media"><a href="https://www.instagram.com/lukasz_mvc/" target="_blank"
               class="team_member_social_media_link w-inline-block"><img
-                src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cecc0d8c364512c09e7f_instagram-logo_weiss.png"
-                loading="lazy" width="25" alt="" class="team_member_social_media_logo" /></a><a
+                src="../public/5ff4cecc0d8c364512c09e7f_instagram-logo_weiss.png" loading="lazy" width="25" alt=""
+                class="team_member_social_media_logo" /></a><a
               href="mailto:lukasz.kaminski@Timur Scher Films.de?subject=Web%3A%20Neue%20Nachricht!"
               class="team_member_social_media_link w-inline-block"><img
-                src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png"
-                loading="lazy" width="25" sizes="100vw" alt=""
-                srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cf5823575d6fa0f48bc1_icons8-envelope-p-500.png 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png 512w"
+                src="../public/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png" loading="lazy" width="25" sizes="100vw"
+                alt=""
+                srcset="https://public/5ff4cf5823575d6fa0f48bc1_icons8-envelope-p-500.png 500w, https://public/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png 512w"
                 class="team_member_social_media_logo" /></a></div>
         </div>
       </div>
       <div id="w-node-f838b830-a468-1ddf-d988-021686b430f1-1db54d10" class="member_block"><a
           href="https://www.instagram.com/alem.bsc/" target="_blank"
-          class="team_member_social_absolute w-inline-block"></a><img
-          src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113bc34cfe80bbcc5addd_alem.jpg" loading="lazy"
-          width="225" sizes="(max-width: 479px) 77.15625px, (max-width: 991px) 300px, (max-width: 1439px) 41vw, 42vw"
-          alt=""
-          srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113bc34cfe80bbcc5addd_alem-p-500.jpeg 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113bc34cfe80bbcc5addd_alem-p-800.jpeg 800w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113bc34cfe80bbcc5addd_alem-p-1080.jpeg 1080w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113bc34cfe80bbcc5addd_alem.jpg 1280w"
+          class="team_member_social_absolute w-inline-block"></a><img src="../public/60b113bc34cfe80bbcc5addd_alem.jpg"
+          loading="lazy" width="225"
+          sizes="(max-width: 479px) 77.15625px, (max-width: 991px) 300px, (max-width: 1439px) 41vw, 42vw" alt=""
+          srcset="https://public/60b113bc34cfe80bbcc5addd_alem-p-500.jpeg 500w, https://public/60b113bc34cfe80bbcc5addd_alem-p-800.jpeg 800w, https://public/60b113bc34cfe80bbcc5addd_alem-p-1080.jpeg 1080w, https://public/60b113bc34cfe80bbcc5addd_alem.jpg 1280w"
           class="member_image" />
         <div class="team_member_text">
           <h2 class="team_member_name">Alem <br />Basić</h2>
           <p class="team_member_position">Folientechniker</p>
           <div class="team_member_social_media"><a href="https://www.facebook.com/profile.php?id=100008128635460"
               target="_blank" class="team_member_social_media_link w-inline-block"><img
-                src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fd21c2c16c98a5608bdff6d_facebook-icon-white%20Kopie.png"
-                loading="lazy" width="25" alt="" class="team_member_social_media_logo" /></a><a
-              href="https://www.instagram.com/alem.bsc/" target="_blank"
-              class="team_member_social_media_link w-inline-block"><img
-                src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cecc0d8c364512c09e7f_instagram-logo_weiss.png"
-                loading="lazy" width="25" alt="" class="team_member_social_media_logo" /></a></div>
+                src="../public/5fd21c2c16c98a5608bdff6d_facebook-icon-white%20Kopie.png" loading="lazy" width="25"
+                alt="" class="team_member_social_media_logo" /></a><a href="https://www.instagram.com/alem.bsc/"
+              target="_blank" class="team_member_social_media_link w-inline-block"><img
+                src="../public/5ff4cecc0d8c364512c09e7f_instagram-logo_weiss.png" loading="lazy" width="25" alt=""
+                class="team_member_social_media_logo" /></a></div>
         </div>
       </div>
       <div id="w-node-f838b830-a468-1ddf-d988-021686b43100-1db54d10" class="member_block"><a
           href="https://www.instagram.com/alex_de_98/" target="_blank"
-          class="team_member_social_absolute w-inline-block"></a><img
-          src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113bb1d936e2d251aac15_alex.jpg" loading="lazy"
-          width="225"
+          class="team_member_social_absolute w-inline-block"></a><img src="../public/60b113bb1d936e2d251aac15_alex.jpg"
+          loading="lazy" width="225"
           sizes="(max-width: 479px) 300px, (max-width: 767px) 19vw, (max-width: 991px) 24vw, (max-width: 1439px) 41vw, 42vw"
           alt=""
-          srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113bb1d936e2d251aac15_alex-p-500.jpeg 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b113bb1d936e2d251aac15_alex.jpg 1280w"
+          srcset="https://public/60b113bb1d936e2d251aac15_alex-p-500.jpeg 500w, https://public/60b113bb1d936e2d251aac15_alex.jpg 1280w"
           class="member_image" />
         <div class="team_member_text">
           <h2 class="team_member_name">Alex <br />Dercho</h2>
           <p class="team_member_position">Folientechniker</p>
           <div class="team_member_social_media"><a href="https://www.instagram.com/alex_de_98/" target="_blank"
               class="team_member_social_media_link w-inline-block"><img
-                src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cecc0d8c364512c09e7f_instagram-logo_weiss.png"
-                loading="lazy" width="25" alt="" class="team_member_social_media_logo" /></a></div>
+                src="../public/5ff4cecc0d8c364512c09e7f_instagram-logo_weiss.png" loading="lazy" width="25" alt=""
+                class="team_member_social_media_logo" /></a></div>
         </div>
       </div>
       <div id="w-node-_3207c16e-1937-435d-43ec-ae43201407cf-1db54d10" class="member_block"><a
           href="https://www.instagram.com/alex_de_98/" target="_blank"
           class="team_member_social_absolute w-inline-block"></a><img
-          src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/66df042406f81afddce91128_evan-jenkis-compressed.jpg"
-          loading="lazy" width="225"
+          src="../public/66df042406f81afddce91128_evan-jenkis-compressed.jpg" loading="lazy" width="225"
           sizes="(max-width: 479px) 77.15625px, (max-width: 767px) 19vw, (max-width: 991px) 24vw, (max-width: 1439px) 41vw, 42vw"
           alt=""
-          srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/66df042406f81afddce91128_evan-jenkis-compressed-p-500.jpg 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/66df042406f81afddce91128_evan-jenkis-compressed.jpg 720w"
+          srcset="https://public/66df042406f81afddce91128_evan-jenkis-compressed-p-500.jpg 500w, https://public/66df042406f81afddce91128_evan-jenkis-compressed.jpg 720w"
           class="member_image" />
         <div class="team_member_text">
           <h2 class="team_member_name">Evan<br />Jenkins</h2>
@@ -464,9 +446,9 @@
           <div class="team_member_social_media"><a
               href="mailto:evan-jenkins@Timur Scher Films.de?subject=Web%3A%20Neue%20Nachricht!"
               class="team_member_social_media_link w-inline-block"><img
-                src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png"
-                loading="lazy" width="20" sizes="100vw" alt=""
-                srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cf5823575d6fa0f48bc1_icons8-envelope-p-500.png 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png 512w"
+                src="../public/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png" loading="lazy" width="20" sizes="100vw"
+                alt=""
+                srcset="https://public/5ff4cf5823575d6fa0f48bc1_icons8-envelope-p-500.png 500w, https://public/5ff4cf5823575d6fa0f48bc1_icons8-envelope.png 512w"
                 class="team_member_social_media_logo" /></a></div>
         </div>
       </div>
@@ -481,23 +463,23 @@
   <div class="kontakt_wrapper">
     <div class="kontakt_info">
       <div id="w-node-a7b205e3-6724-c1de-1da2-60ef1d2fb32b-1d2fb328" class="kontakt_info_block"><img
-          src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe4625c882141c6f551a97_kontakt_weiss.png"
-          loading="lazy" width="80" alt="" class="kontakt_info_bild" />
+          src="../public/5fbe4625c882141c6f551a97_kontakt_weiss.png" loading="lazy" width="80" alt=""
+          class="kontakt_info_bild" />
         <h4 class="kontakt_info_heading">Telefon &amp; E-Mail</h4>
         <p class="kontakt_info_paragraph"><strong>T: </strong><a href="tel:052476228530" class="link-2">05247 6228
             530</a><strong><br />E: </strong><a href="mailto:info@Timur Scher Films.de" class="link-4">info@Timur
             Scher Films.de</a></p>
       </div>
       <div id="w-node-a7b205e3-6724-c1de-1da2-60ef1d2fb33b-1d2fb328" class="kontakt_info_block"><img
-          src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe46258416f6e33bb818d9_standort_weiss.png"
-          loading="lazy" width="80" alt="" class="kontakt_info_bild" />
+          src="../public/5fbe46258416f6e33bb818d9_standort_weiss.png" loading="lazy" width="80" alt=""
+          class="kontakt_info_bild" />
         <h4 class="kontakt_info_heading">Standort</h4>
         <p class="kontakt_info_paragraph">Möllenbrocksweg 21,<br />33428 Harsewinkel<br /></p>
       </div>
       <div id="w-node-a7b205e3-6724-c1de-1da2-60ef1d2fb345-1d2fb328" class="kontakt_info_block"><img
-          src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe46256e22447a483a02da_oeffnungszeiten_weiss.png"
-          loading="lazy" width="80" sizes="(max-width: 1279px) 80px, (max-width: 1439px) 6vw, 80px" alt=""
-          srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe46256e22447a483a02da_oeffnungszeiten_weiss-p-500.png 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe46256e22447a483a02da_oeffnungszeiten_weiss.png 512w"
+          src="../public/5fbe46256e22447a483a02da_oeffnungszeiten_weiss.png" loading="lazy" width="80"
+          sizes="(max-width: 1279px) 80px, (max-width: 1439px) 6vw, 80px" alt=""
+          srcset="https://public/5fbe46256e22447a483a02da_oeffnungszeiten_weiss-p-500.png 500w, https://public/5fbe46256e22447a483a02da_oeffnungszeiten_weiss.png 512w"
           class="kontakt_info_bild" />
         <h4 class="kontakt_info_heading">Öffnungszeiten</h4>
         <p class="kontakt_info_paragraph"><strong>Mo. – Fr.:<br /></strong>08:00 – 18:00 Uhr</p>

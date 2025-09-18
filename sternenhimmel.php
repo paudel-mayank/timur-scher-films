@@ -7,18 +7,15 @@
         data-nav-spacing="10" data-duration="750" data-infinite="true">
         <div class="mask atf_scaling_up w-slider-mask">
           <div class="slide_vorlage slide_1 sh_slide_01 w-slide">
-            <div
-              data-poster-url="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b4d6ca478a7906160cad3f_Timur Scher Films-sternenhimmel-poster-00001.jpg"
-              data-video-urls="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b4d6ca478a7906160cad3f_Timur Scher Films-sternenhimmel-transcode.mp4,https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b4d6ca478a7906160cad3f_Timur Scher Films-sternenhimmel-transcode.webm"
-              data-autoplay="true" data-loop="true" data-wf-ignore="true"
+            <div data-autoplay="true" data-loop="true" data-wf-ignore="true"
               class="sh_video w-background-video w-background-video-atom"><video
                 id="ef585cb8-bcf1-f5cf-057c-ae0bc42bcf66-video" autoplay loop
-                style="background-image:url(_https_/cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b4d6ca478a7906160cad3f_Timur Scher Films-sternenhimmel-poster-00001.html)"
+                style="background-image:url(_https_/public/60b4d6ca478a7906160cad3f_Timur Scher Films-sternenhimmel-poster-00001.html)"
                 muted playsinline data-wf-ignore="true" data-object-fit="cover">
-                <source src="../../Homepage/Racetrack.mp4" data-wf-ignore="true" />
-                <source
-                  src="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60b4d6ca478a7906160cad3f_Timur Scher Films-sternenhimmel-transcode.webm"
-                  data-wf-ignore="true" />
+                <source src="videos/Auto.mp4" data-wf-ignore="true" />
+                <!-- <source
+                  src="https://public/60b4d6ca478a7906160cad3f_Timur Scher Films-sternenhimmel-transcode.webm"
+                  data-wf-ignore="true" /> -->
               </video>
               <div class="atv_heading_wrapper">
                 <h3 class="atv_heading">Automotive<br /></h3>
@@ -27,14 +24,7 @@
               </div>
             </div>
           </div>
-          <div class="slide_vorlage slide_1 sh_slide_02 w-slide">
-            <div class="atv_heading_wrapper">
-              <h3 class="atv_heading">STERNENHIMMEL<br /></h3>
-              <p class="atv_paragraph">Ihr Wunsch ist uns Befehl! Wir gehen
-                auf jeden Kundenwunsch ein und versuchen
-                diesen mit bestem Gewissen zu verwirklichen.</p>
-            </div>
-          </div>
+
 
         </div>
 
@@ -105,130 +95,130 @@
         <!--  Replaced masonry with dynamic grid layout -->
         <div class="dynamic-grid">
           <div class="gallery-item large">
-            <img src="../Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="Mountain Landscape">
+            <img src="Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="Mountain Landscape">
             <div class="overlay">
 
             </div>
           </div>
 
           <div class="gallery-item small">
-            <img src="../Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="Street Art">
+            <img src="Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="Street Art">
             <div class="overlay">
 
             </div>
           </div>
 
           <div class="gallery-item tall">
-            <img src="../Homepage/Automotive/Fotos/Foto 21.09.23, 17 05 19.jpg" alt="Coffee Shop">
+            <img src="Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="Coffee Shop">
             <div class="overlay">
 
             </div>
           </div>
 
           <div class="gallery-item wide">
-            <img src="../Homepage/Automotive/Fotos/Foto 01.12.24, 15 22 29.jpg" alt="Ocean Waves">
+            <img src="Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="Ocean Waves">
             <div class="overlay">
 
             </div>
           </div>
 
           <div class="gallery-item small">
-            <img src="../Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="City Skyline">
+            <img src="Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="City Skyline">
             <div class="overlay">
 
             </div>
           </div>
 
           <div class="gallery-item tall">
-            <img src="../Homepage/Automotive/Fotos/Foto 21.09.23, 17 05 19.jpg" alt="Forest Path">
+            <img src="Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="Forest Path">
             <div class="overlay">
 
             </div>
           </div>
 
           <div class="gallery-item wide">
-            <img src="../Homepage/Automotive/Fotos/Foto 01.12.24, 15 22 29.jpg" alt="Desert Panorama">
+            <img src="Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="Desert Panorama">
             <div class="overlay">
 
             </div>
           </div>
 
           <div class="gallery-item small">
-            <img src="../Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="Library">
+            <img src="Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="Library">
             <div class="overlay">
 
             </div>
           </div>
 
           <div class="gallery-item large">
-            <img src="../Homepage/Automotive/Fotos/Foto 18.05.23, 13 37 42.jpg" alt="Farmers Market">
+            <img src="Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="Farmers Market">
             <div class="overlay">
 
             </div>
           </div>
 
           <div class="gallery-item small">
-            <img src="../Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="Vintage Bicycle">
+            <img src="Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="Vintage Bicycle">
             <div class="overlay">
 
             </div>
           </div>
 
           <div class="gallery-item wide">
-            <img src="../Homepage/Automotive/Fotos/Foto 01.12.24, 15 22 29.jpg" alt="Hot Air Balloons">
+            <img src="Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="Hot Air Balloons">
             <div class="overlay">
 
             </div>
           </div>
 
           <div class="gallery-item small">
-            <img src="../Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="Sunset Beach">
+            <img src="Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="Sunset Beach">
             <div class="overlay">
 
             </div>
           </div>
 
           <div class="gallery-item small">
-            <img src="../Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="Sunset Beach">
+            <img src="Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="Sunset Beach">
             <div class="overlay">
 
             </div>
           </div>
 
           <div class="gallery-item wide">
-            <img src="../Homepage/Automotive/Fotos/Foto 01.12.24, 15 22 29.jpg" alt="Architecture">
+            <img src="Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="Architecture">
             <div class="overlay">
 
             </div>
           </div>
 
           <div class="gallery-item small">
-            <img src="../Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="Food Photography">
+            <img src="Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="Food Photography">
             <div class="overlay">
 
             </div>
           </div>
           <div class="gallery-item wide">
-            <img src="../Homepage/Automotive/Fotos/Foto 01.12.24, 15 22 29.jpg" alt="Architecture">
+            <img src="Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="Architecture">
             <div class="overlay">
 
             </div>
           </div>
           <div class="gallery-item small">
-            <img src="../Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="Food Photography">
+            <img src="Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="Food Photography">
             <div class="overlay">
 
             </div>
           </div>
           <div class="gallery-item wide">
-            <img src="../Homepage/Automotive/Fotos/Foto 01.12.24, 15 22 29.jpg" alt="Architecture">
+            <img src="Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" alt="Architecture">
             <div class="overlay">
 
             </div>
           </div>
 
           <!-- <div class="gallery-item tall">
-            <img src="../Homepage/Automotive/Fotos/Foto 21.09.23, 17 05 19.jpg" alt="Wildlife">
+            <img src="Homepage/Automotive/Fotos/Foto 21.09.23, 17 05 19.jpg" alt="Wildlife">
             <div class="overlay">
 
             </div>
@@ -242,31 +232,39 @@
     <div class="kontakt_wrapper">
       <div class="kontakt_info">
         <div id="w-node-a7b205e3-6724-c1de-1da2-60ef1d2fb32b-1d2fb328" class="kontakt_info_block"><img
-            src="../../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe4625c882141c6f551a97_kontakt_weiss.png"
-            loading="lazy" width="80" alt class="kontakt_info_bild" />
+            src="public/5fbe4625c882141c6f551a97_kontakt_weiss.png" loading="lazy" width="80" alt
+            class="kontakt_info_bild" />
           <h4 class="kontakt_info_heading">Telefon &amp; E-Mail</h4>
-          <p class="kontakt_info_paragraph"><strong>T: </strong><a href="tel:052476228530" class="link-2">05247 6228
+          <p class="kontakt_info_paragraph"><strong>T:
+
+            </strong><a href="tel:052476228530" class="link-2">05247 6228
               530</a><strong><br />E: </strong><a href="mailto:info@Timur Scher Films.de" class="link-4">info@Timur
               Scher Films.de</a></p>
         </div>
+
+
         <div id="w-node-a7b205e3-6724-c1de-1da2-60ef1d2fb33b-1d2fb328" class="kontakt_info_block"><img
-            src="../../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe46258416f6e33bb818d9_standort_weiss.png"
-            loading="lazy" width="80" alt class="kontakt_info_bild" />
+            src="public/5fbe46258416f6e33bb818d9_standort_weiss.png" loading="lazy" width="80" alt
+            class="kontakt_info_bild" />
           <h4 class="kontakt_info_heading">Standort</h4>
           <p class="kontakt_info_paragraph">Möllenbrocksweg 21,<br />33428
             Harsewinkel<br /></p>
         </div>
+
         <div id="w-node-a7b205e3-6724-c1de-1da2-60ef1d2fb345-1d2fb328" class="kontakt_info_block"><img
-            src="../../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe46256e22447a483a02da_oeffnungszeiten_weiss.png"
-            loading="lazy" width="80" sizes="(max-width: 1279px) 80px, (max-width: 1439px) 6vw, 80px" alt
-            srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe46256e22447a483a02da_oeffnungszeiten_weiss-p-500.png 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe46256e22447a483a02da_oeffnungszeiten_weiss.png 512w"
-            class="kontakt_info_bild" />
+            src="public/5fbe46256e22447a483a02da_oeffnungszeiten_weiss.png" loading="lazy" width="80"
+            sizes="(max-width: 1279px) 80px, (max-width: 1439px) 6vw, 80px" alt class="kontakt_info_bild" />
           <h4 class="kontakt_info_heading">Öffnungszeiten</h4>
           <p class="kontakt_info_paragraph"><strong>Mo. –
               Fr.:<br /></strong>08:00 – 18:00 Uhr</p>
         </div>
       </div>
+      <div style="margin: 30px 0px 50px 0px; text-align: center;">
+        <h3 class="philosophie_heading_work">LET's WORK</h3>
+      </div>
       <div class="kontakt_formular_map">
+
+
         <div class="embed-google-maps w-embed w-iframe"><iframe
             src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9836.128375512704!2d8.2664219!3d51.9516062!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc3aff6393af2d2e!2sTimur Scher Films!5e0!3m2!1sde!2sde!4v1604933091758!5m2!1sde!2sde"
             width="100%" height="100%" frameborder="0" style="border:0;" allowfullscreen aria-hidden="false"
@@ -274,7 +272,7 @@
         <div id="kontakt_formular" class="kontakt_formular">
           <div class="footer-contact-form w-form">
             <form id="wf-form-kontakt_formular" name="wf-form-kontakt_formular" data-name="kontakt_formular"
-              action="https://submit-form.com/6s49DIZQ" method="post" data-wf-page-id="6093e73f72fd6c550b7c0d06"
+              action="https://submit-form.com/6s49DIZQ" method="post" data-wf-page-id="5fdbc1d703f812d735dce9b0"
               data-wf-element-id="a7b205e3-6724-c1de-1da2-60ef1d2fb352"><label for="Name-3" class="field-label">Wie
                 können wir Ihnen helfen?</label><input class="main_kontakt_input w-input" maxlength="256" name="Name"
                 data-name="Name" placeholder="Vollständiger Name" type="text" id="Name-3" required /><input

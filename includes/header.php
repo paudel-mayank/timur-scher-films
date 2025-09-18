@@ -1,6 +1,5 @@
 <!DOCTYPE html><!-- Last Published: Mon Aug 18 2025 11:34:14 GMT+0000 (Coordinated Universal Time) -->
-<html data-wf-domain="Timur Scher Films.webflow.io" data-wf-page="5fdbc1d703f812d735dce9b0"
-    data-wf-site="5f931a53edfb8c55904a765a" lang="de">
+<html data-wf-domain="Timur Scher Films.webflow.io" data-wf-page="5fdbc1d703f812d735dce9b0" data-wf-site="a" lang="de">
 <!-- Mirrored from Timur Scher Films.de/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Aug 2025 13:45:46 GMT -->
 
 <head>
@@ -11,25 +10,23 @@
     <!-- <meta content="summary_large_image" name="twitter:card" /> -->
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <!-- <meta content="awXFgioX9YkYGuZ5GP9vXYVfsWLbmygTwq7x7jXDCwI" name="google-site-verification" /> -->
-    <link href="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/css/app.css" rel="stylesheet" type="text/css" />
+    <link href="public/css/app.css" rel="stylesheet" type="text/css" />
     <script
         type="text/javascript">!function (o, c) { var n = c.documentElement, t = " w-mod-"; n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch") }(window, document);</script>
-    <link href="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5f93500de3964b349ef7e630_mvc_customs_favicon.png"
-        rel="shortcut icon" type="image/x-icon" />
-    <link href="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5f93501829681490247f3884_mvc_customs_webclip.png"
-        rel="apple-touch-icon" /><!-- Finsweet Cookie Consent -->
-    <script async src="../cdn.jsdelivr.net/npm/%40finsweet/cookie-consent%401/fs-cc.js" fs-cc-mode="opt-in"
+
+    <!-- Finsweet Cookie Consent -->
+    <script async src="cdn.jsdelivr.net/npm/%40finsweet/cookie-consent%401/fs-cc.js" fs-cc-mode="opt-in"
         fs-cc-debug="false"></script>
 
     <!-- Elfsight Widgets -->
-    <script defer src="../js/platform.js
+    <script defer src="js/platform.js
     "></script>
 
     <!-- Cloudflare Turnslide Captcha -->
-    <script defer src="../challenges.cloudflare.com/turnstile/v0/b/4710d66e8fda/api.js"></script>
+    <script defer src="challenges.cloudflare.com/api.js"></script>
 
     <!-- Lenis Smooth Scroll -->
-    <script async src="../cdn.jsdelivr.net/gh/studio-freight/lenis%400.2.28/bundled/lenis.js"></script>
+    <script async src="cdn.jsdelivr.net/lenis.js"></script>
     <script
         type="text/javascript">window.__WEBFLOW_CURRENCY_SETTINGS = { "currencyCode": "EUR", "symbol": "€", "decimal": ",", "fractionDigits": 2, "group": ".", "template": "{{wf {&quot;path&quot;:&quot;symbol&quot;,&quot;type&quot;:&quot;PlainText&quot;\\} }} {{wf {&quot;path&quot;:&quot;amount&quot;,&quot;type&quot;:&quot;CommercePrice&quot;\\} }} {{wf {&quot;path&quot;:&quot;currencyCode&quot;,&quot;type&quot;:&quot;PlainText&quot;\\} }}", "hideDecimalForWholeNumbers": true };</script>
     <script
@@ -97,18 +94,16 @@
         <div class="container w-container"><a href="index.php"
                 id="w-node-_04a58433-f211-4564-acd1-3dc3cd22fee2-cd22fee0" aria-current="page"
                 class="brand w-nav-brand w--current">
-                <img src="../Homepage/Logos/Timur Scher_weiß.png" loading="eager" width="100" sizes="90px" alt
-                    srcset="../Homepage/Logos/Timur Scher_weiß.png 500w, ../Homepage/Logos/Timur Scher_weiß.png 1181w"
+                <img src="Homepage/Logos/Timur Scher_weiß.png" loading="eager" width="100" sizes="90px" alt
+                    srcset="Homepage/Logos/Timur Scher_weiß.png 500w, Homepage/Logos/Timur Scher_weiß.png 1181w"
                     class="image-2" />
                 <div class="logo_untertitel"></div>
             </a>
             <div id="w-node-_04a58433-f211-4564-acd1-3dc3cd22ff01-cd22fee0"
                 data-w-id="04a58433-f211-4564-acd1-3dc3cd22ff01" class="menu-button w-nav-button">
                 <div data-is-ix2-target="1" class="lottie_hamburger" data-w-id="04a58433-f211-4564-acd1-3dc3cd22ff02"
-                    data-animation-type="lottie"
-                    data-src="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5faab7a223239274d9ca948c_hamburger_menu.json"
-                    data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg" data-default-duration="4"
-                    data-duration="0" data-ix2-initial-state="25"></div>
+                    data-animation-type="lottie" data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg"
+                    data-default-duration="4" data-duration="0" data-ix2-initial-state="25"></div>
             </div>
             <nav role="navigation" id="w-node-_04a58433-f211-4564-acd1-3dc3cd22fee4-cd22fee0"
                 class="open_nav_menu w-nav-menu"><a href="index.php" aria-current="page"
@@ -131,11 +126,9 @@
             class="nav_link w-nav-link">UNTERNEHMEN</a> -->
                 <a href="index.php#medien" class="nav_link w-nav-link">Medien</a>
                 <a href="#kontakt" class="nav_link w-nav-link">kontakt</a>
-                <div class="search-form-button"><img
-                        src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5faaafbd0d379f4cc85c46ea_icons8-search.png"
+                <div class="search-form-button"><img src="../public/5faaafbd0d379f4cc85c46ea_icons8-search.png"
                         loading="eager" width="30"
                         sizes="(max-width: 991px) 100vw, (max-width: 1279px) 30px, (max-width: 1919px) 2vw, 30px" alt
-                        srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5faaafbd0d379f4cc85c46ea_icons8-search-p-500.png 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5faaafbd0d379f4cc85c46ea_icons8-search.png 512w"
                         class="search-icon" /></div>
             </nav>
         </div>

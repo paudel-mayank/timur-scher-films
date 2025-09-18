@@ -2,8 +2,8 @@
     <div class="footer-wrapper">
         <div class="w-layout-grid footer-grid">
             <div id="w-node-_54b84998-4975-7c2b-54a7-6056b9291828-b9291825" class="footer_info footer_info_one"><img
-                    src="../Homepage/Logos/Timur Scher_weiß.png" loading="lazy" width="100" sizes="100px" alt
-                    srcset="../Homepage/Logos/Timur Scher_weiß.png " />
+                    src="Homepage/Logos/Timur Scher_weiß.png" loading="lazy" width="100" sizes="100px" alt
+                    srcset="Homepage/Logos/Timur Scher_weiß.png " />
             </div>
             <div id="w-node-_54b84998-4975-7c2b-54a7-6056b929182a-b9291825" class="footer_info">
                 <div class="sub-heading">Services</div>
@@ -15,25 +15,24 @@
             <div id="w-node-_54b84998-4975-7c2b-54a7-6056b9291835-b9291825" class="footer_info">
                 <div class="sub-heading">Soziale netzwerke</div><a href="https://www.facebook.com/mvccustoms"
                     target="_blank" class="footer_social_platform w-inline-block"><img
-                        src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fd21c2c16c98a5608bdff6d_facebook-icon-white%20Kopie.png"
-                        loading="lazy" width="20" alt class="footer_social_logo" />
+                        src="public/5fd21c2c16c98a5608bdff6d_facebook-icon-white%20Kopie.png" loading="lazy" width="20"
+                        alt class="footer_social_logo" />
                     <div class="footer_social_link_text">Facebook</div>
                 </a><a href="https://www.youtube.com/channel/UC1vdeg3zYCRson3uOsUBh1g" target="_blank"
                     class="footer_social_platform w-inline-block"><img
-                        src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ffcb0297afe5adb533da96f_youtube_icon.png"
-                        loading="lazy" width="20" alt class="footer_social_logo" />
+                        src="public/5ffcb0297afe5adb533da96f_youtube_icon.png" loading="lazy" width="20" alt
+                        class="footer_social_logo" />
                     <div class="footer_social_link_text">YouTube</div>
                 </a><a href="https://www.instagram.com/mvc_customs/" target="_blank"
                     class="footer_social_platform w-inline-block"><img
-                        src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ff4cecc0d8c364512c09e7f_instagram-logo_weiss.png"
-                        loading="lazy" width="20" alt class="footer_social_logo" />
+                        src="public/5ff4cecc0d8c364512c09e7f_instagram-logo_weiss.png" loading="lazy" width="20" alt
+                        class="footer_social_logo" />
                     <div class="footer_social_link_text">Instagram</div>
                 </a><a href="https://vm.tiktok.com/ZSGMdpt3/" target="_blank"
                     class="footer_social_platform w-inline-block"><img
-                        src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ffcb00be618400f92834628_tiktok_icon.png"
-                        loading="lazy" width="20"
+                        src="public/5ffcb00be618400f92834628_tiktok_icon.png" loading="lazy" width="20"
                         sizes="(max-width: 991px) 20px, (max-width: 1279px) 2vw, (max-width: 1439px) 20px, 1vw" alt
-                        srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ffcb00be618400f92834628_tiktok_icon-p-500.png 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5ffcb00be618400f92834628_tiktok_icon.png 512w"
+                        srcset="https://public/5ffcb00be618400f92834628_tiktok_icon-p-500.png 500w, https://public/5ffcb00be618400f92834628_tiktok_icon.png 512w"
                         class="footer_social_logo" />
                     <div class="footer_social_link_text">TikTok</div>
                 </a>
@@ -52,16 +51,12 @@
     </div>
 </div>
 </div>
-<script src="../js/appfooter.js" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+<script src="js/appfooter.js" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
     crossorigin="anonymous"></script>
-<script src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/js/mvc-customs.schunk.6d83011aa4f34449.js"
-    type="text/javascript"></script>
-<script src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/js/mvc-customs.schunk.cefe02b8994ee875.js"
-    type="text/javascript"></script>
-<script src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/js/mvc-customs.schunk.3646b0bdbfc7a235.js"
-    type="text/javascript"></script>
-<script src="../cdn.prod.website-files.com/5f931a53edfb8c55904a765a/js/mvc-customs.2aa7ba82.06c10e28ec0626b7.js"
-    type="text/javascript"></script>
+<script src="public/js/mvc-customs.schunk.6d83011aa4f34449.js" type="text/javascript"></script>
+<script src="public/js/mvc-customs.schunk.cefe02b8994ee875.js" type="text/javascript"></script>
+<script src="public/js/mvc-customs.schunk.3646b0bdbfc7a235.js" type="text/javascript"></script>
+<script src="public/js/mvc-customs.2aa7ba82.06c10e28ec0626b7.js" type="text/javascript"></script>
 <script src="https://uploads-ssl.webflow.com/js/webflow.js" type="text/javascript"></script>
 
 <script>
