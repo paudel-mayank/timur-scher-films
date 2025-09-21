@@ -4,6 +4,8 @@
             <div id="w-node-_54b84998-4975-7c2b-54a7-6056b9291828-b9291825" class="footer_info footer_info_one"><img
                     src="Homepage/Logos/Timur Scher_weiß.png" loading="lazy" width="100" sizes="100px" alt
                     srcset="Homepage/Logos/Timur Scher_weiß.png " />
+
+                    <p style="margin:20px 0px;line-height:1.3em;opacity:0.7;" > Lorem ipsum dolor, sit amet consectetur adipisicing elit.  iste, temporibus libero dolorem expedita unde dolore odit earum eius aspernatur suscipit enim corrupti.</p>
             </div>
             <div id="w-node-_54b84998-4975-7c2b-54a7-6056b929182a-b9291825" class="footer_info">
                 <div class="sub-heading">Services</div>
@@ -42,11 +44,11 @@
             <div class="embed-copyright w-embed">
                 <p class="copyright_text">&copy; Timur Scher Films – <span id="year"></span>. TimurScher Films
             </div>
-            <div id="w-node-_54b84998-4975-7c2b-54a7-6056b9291844-b9291825" class="div-block-12"><a
+            <!-- <div id="w-node-_54b84998-4975-7c2b-54a7-6056b9291844-b9291825" class="div-block-12"><a
                     href="https://agenturr-kaufmann.de/" target="_blank" class="footer_link">Web Designer</a><a
                     href="rechtlich/datenschutz.html" class="footer_link">Datenschutz</a><a href="#"
                     fs-cc="open-preferences" class="footer_link">Cookies</a><a href="rechtlich/impressum.html"
-                    class="footer_link">Impressum</a></div>
+                    class="footer_link">Impressum</a></div> -->
         </div>
     </div>
 </div>
@@ -54,7 +56,7 @@
 <script src="js/appfooter.js" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
     crossorigin="anonymous"></script>
 <script src="public/js/mvc-customs.schunk.6d83011aa4f34449.js" type="text/javascript"></script>
-<script src="public/js/mvc-customs.schunk.cefe02b8994ee875.js" type="text/javascript"></script>
+<script src="public/js/footerschunk.js" type="text/javascript"></script>
 <script src="public/js/mvc-customs.schunk.3646b0bdbfc7a235.js" type="text/javascript"></script>
 <script src="public/js/mvc-customs.2aa7ba82.06c10e28ec0626b7.js" type="text/javascript"></script>
 <script src="https://uploads-ssl.webflow.com/js/webflow.js" type="text/javascript"></script>

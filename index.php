@@ -20,7 +20,7 @@
                 color: white; font-size: 2.5rem; 
                 font-weight: bold; 
                 text-align: center;
-                text-shadow: 2px 2px 8px rgba(0,0,0,0.7); 
+                /* text-shadow: 2px 2px 8px rgba(0,0,0,0.7);  */
                 font-family: Helvetica-Neue LT Pro Extended, sans-serif;
                 line-height: 40px;">
 
@@ -79,58 +79,54 @@
     </div>
   </div>
 
-  <div data-w-id="12bc3f7a-eae5-2e90-be9e-ea3a66ac9272" class="gradient-bar"></div>
   <div id="service" class="service">
     <div class="service_wrapper">
       <div data-autoplay="true" data-loop="true" data-wf-ignore="true" data-beta-bgvideo-upgrade="false"
-        class="background-video w-background-video w-background-video-atom"><video
-          id="9c993f36-06e6-53e4-af82-389426e75243-video" autoplay loop
-          style="background-image:url(_https_/cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fb184e20470396400001de0_abstract_compressed-poster-00001.html)"
-          muted playsinline data-wf-ignore="true" data-object-fit="cover">
-          <!-- <source
-              src="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fb184e20470396400001de0_abstract_compressed-transcode.mp4"
-              data-wf-ignore="true" />
-            <source
-              src="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fb184e20470396400001de0_abstract_compressed-transcode.webm"
-              data-wf-ignore="true" /> -->
+        class="background-video w-background-video w-background-video-atom">
+        <!-- style="background-image:url(/_https_/cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fb184e20470396400001de0_abstract_compressed-poster-00001.html)" -->
+        <video id="9c993f36-06e6-53e4-af82-389426e75243-video" autoplay loop muted playsinline data-wf-ignore="true"
+          data-object-fit="cover">
+          <source src="/abs.mp4" type="video/mp4">
         </video>
-        <div class="_3_column_service"><a id="w-node-_8dbc4512-193f-9318-b19c-c6f2c1f8d64c-35dce9b0"
-            data-w-id="8dbc4512-193f-9318-b19c-c6f2c1f8d64c" href="sternenhimmel.html"
-            class="service_block w-inline-block">
+        <div class="_3_column_service">
+          <a id="w-node-_8dbc4512-193f-9318-b19c-c6f2c1f8d64c-35dce9b0" data-w-id="8dbc4512-193f-9318-b19c-c6f2c1f8d64c"
+            href="sternenhimmel.html" class="service_block w-inline-block">
             <div data-w-id="c3b2da61-c67a-022a-7081-5970b1ede455" class="service_image_box-shadow">
               <h2 class="service_headline">Automotive</h2>
-            </div><img src="public/60b11ae61d936e73a31b0b57_sternenhimmel_4.jpg" loading="lazy"
+            </div>
+            <img src="/Homepage/Automotive/Fotos/Foto 01.12.24, 15 08 49.jpg" loading="lazy"
               sizes="(max-width: 1919px) 100vw, 1920px" alt class="service_image" />
-          </a><a id="w-node-_38bfcb70-1535-2db8-1652-6cec19ff1fa5-35dce9b0"
-            data-w-id="38bfcb70-1535-2db8-1652-6cec19ff1fa5" href="fahrzeug-individualisierung.html"
-            class="service_block w-inline-block">
+          </a>
+          <a id="w-node-_38bfcb70-1535-2db8-1652-6cec19ff1fa5-35dce9b0" data-w-id="38bfcb70-1535-2db8-1652-6cec19ff1fa5"
+            href="fahrzeug-individualisierung.html" class="service_block w-inline-block">
             <div data-w-id="38bfcb70-1535-2db8-1652-6cec19ff1fa6" class="service_image_box-shadow">
               <h2 class="service_headline">Imagefilm</h2>
-            </div><img src="public/60b640dcbb120d19f83ee21a_indi_namen.jpg" loading="lazy"
+            </div><img src="/Homepage/Imagefilm/Fotos/Foto 03.02.25, 13 39 05.jpg" loading="lazy"
               sizes="(max-width: 1919px) 100vw, 1920px" alt class="service_image" />
           </a><a id="w-node-_23a96d73-1a5d-a707-3388-82225002944d-35dce9b0"
             data-w-id="23a96d73-1a5d-a707-3388-82225002944d" href="fahrzeug-folierung.html"
             class="service_block w-inline-block">
             <div data-w-id="ec072127-c080-f8c1-c737-920514b292f9" class="service_image_box-shadow">
               <h2 class="service_headline">Musikvideo</h2>
-            </div><img src="public/5fa03de0dc6d27aaff7df069_122103207_740505523200848_1395540458364157990_o.jpg"
-              loading="lazy" alt class="service_image" />
-          </a></div>
+            </div><img src="/Homepage/Musikvideo/Fotos/Foto 03.02.25, 13 26 22.jpg" loading="lazy" alt
+              class="service_image" />
+          </a>
+        </div>
         <div class="_3_column_service">
           <a id="w-node-_378e2660-2720-9ece-0a23-23af1b8a856f-35dce9b0" data-w-id="378e2660-2720-9ece-0a23-23af1b8a856f"
             href="fahrwerk-spurverbreiterung.html" class="service_block w-inline-block">
             <div data-w-id="051e08a7-3aa2-931b-fcc6-e75b5f0438c8" class="service_image_box-shadow">
               <h2 class="service_headline">Hochzeit</h2>
             </div>
-            <img src="public/5fa03d34d7f3f0c0d0e17c59_96265802_634218633829538_2746262244374347776_o.jpg" loading="lazy"
-              sizes="(max-width: 2048px) 100vw, 2048px" alt class="service_image" />
+            <img src="/Homepage/Hochzeit/Fotos/DSC05114.jpg" loading="lazy" sizes="(max-width: 2048px) 100vw, 2048px"
+              alt class="service_image" />
           </a>
           <a id="w-node-bcade4bb-c75d-e334-341f-6877a6875daa-35dce9b0" data-w-id="bcade4bb-c75d-e334-341f-6877a6875daa"
             href="felgen-reifen.html" class="service_block w-inline-block">
             <div data-w-id="ea593428-9284-cc1d-d91b-2fde3334ea45" class="service_image_box-shadow">
               <h2 class="service_headline">Race Track</h2>
             </div>
-            <img src="public/60ab8c741be0d2114f309d50_lamborghini_felgen.jpg" loading="lazy"
+            <img src="/Homepage/Racetrack/Fotos/Foto 01.07.23, 20 16 36.jpg" loading="lazy"
               sizes="(max-width: 1919px) 100vw, 1920px" alt class="service_image" />
           </a>
 
@@ -138,94 +134,46 @@
       </div>
     </div>
   </div>
-
+  <?php
+  // Declare an array of videos
+  $videos = [
+    [
+      "src" => "videos/wedding.mp4",
+      "title" => "Hochzeit"
+    ],
+    [
+      "src" => "videos/racetrack.mp4",
+      "title" => "Race Track"
+    ],
+    [
+      "src" => "videos/music.mp4",
+      "title" => "MusikVideo"
+    ],
+    [
+      "src" => "videos/musicvideo.mp4",
+      "title" => "Image film"
+    ]
+  ];
+  ?>
   <div class="main-container">
-    <!-- <h1 class="section-title">Featured Video Collection</h1> -->
-
     <div class="justify-content-center">
       <div class="col-lg-8 col-md-10">
 
-        <!-- Video 1 -->
-        <div class="video-container">
-          <video muted loop autoplay>
-            <source src="videos/wedding.mp4" type="video/mp4">
-          </video>
-          <div class="video-overlay">
-            <h1 class="philosophie_heading"> Hochzeit</h1>
+        <?php foreach ($videos as $video): ?>
+          <div class="video-container" onclick="openPopup('<?php echo $video['src']; ?>')">
+            <video muted loop autoplay>
+              <source src="<?php echo $video['src']; ?>" type="video/mp4">
+            </video>
+            <div class="video-overlay">
+              <h1 class="philosophie_heading"><?php echo $video['title']; ?></h1>
+            </div>
           </div>
-        </div>
-
-        <!-- Video 2 -->
-        <div class="video-container">
-          <video muted loop autoplay>
-            <source src="videos/racetrack.mp4" type="video/mp4">
-          </video>
-          <div class="video-overlay">
-            <h1 class="philosophie_heading">Race Track</h1>
-          </div>
-        </div>
-
-        <!-- Video 3 -->
-        <div class="video-container">
-          <video muted loop autoplay>
-            <source src="videos/music.mp4" type="video/mp4">
-          </video>
-          <div class="video-overlay">
-            <h1 class="philosophie_heading">MusikVideo</h1>
-          </div>
-        </div>
-
-        <!-- Video 4 -->
-        <div class="video-container">
-          <video muted loop autoplay>
-            <source src="videos/musicvideo.mp4" type="video/mp4">
-          </video>
-          <div class="video-overlay">
-            <h1 class="philosophie_heading">Image film</h1>
-
-          </div>
-        </div>
+        <?php endforeach; ?>
 
       </div>
-
     </div>
   </div>
-  <!-- <div id="brabus" class="brabus">
-        <div class="brabus_wrapper"><img
-            src="public/5fc0fa4a234e05579d05bda5_brabus-logo_weiss.png"
-            loading="lazy" sizes="(max-width: 2500px) 100vw, 2500px"
-            srcset="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fc0fa4a234e05579d05bda5_brabus-logo_weiss-p-500.png 500w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fc0fa4a234e05579d05bda5_brabus-logo_weiss-p-800.png 800w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fc0fa4a234e05579d05bda5_brabus-logo_weiss-p-1080.png 1080w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fc0fa4a234e05579d05bda5_brabus-logo_weiss-p-1600.png 1600w, https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fc0fa4a234e05579d05bda5_brabus-logo_weiss.png 2500w"
-            alt="" class="brabus_logo" />
-          <div class="brabus_body_text">
-            <h2 class="heading-6">Offizieller Brabus Gold Händler</h2>
-            <p class="paragraph-6">Als Veredler im Luxus-Segment bietet BRABUS aufwendig konzipierte Fahrzeugkomponenten
-              und Komplett-Umbauten für Mercedes-Benz Fahrzeuge an. Gerne beraten wir Sie, als einer von dreien
-              offiziellen BRABUS Gold Stützpunkten, vor Ort in unserem Werk.</p>
-            <div class="brabus_button_wrapper"><a href="#kontakt_formular"
-                class="unternehmen_formular_button unternehmen_formular btn_size_up btn_gradient w-button">zum
-                formular</a><a href="brabus.html"
-                class="unternehmen_formular_button btn_size_up btn_gradient w-button">mehr
-                informationen</a></div>
-          </div>
-          <div class="brabus_info">
-            <div id="w-node-_8febcb92-967b-694b-8eee-03b03ac80413-35dce9b0" class="brabus_block"><img
-                src="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60a15439bc3ffc1a1c2be66f_check-mark.svg"
-                loading="lazy" width="80" alt="" class="brabus_info_icon" />
-              <h4 class="brabus_versprechen_heading">Einzigartige <br />Karosserie Umbauten</h4>
-            </div>
-            <div id="w-node-_8febcb92-967b-694b-8eee-03b03ac80423-35dce9b0" class="brabus_block"><img
-                src="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60a15439bc3ffc1a1c2be66f_check-mark.svg"
-                loading="lazy" width="80" alt="" class="brabus_info_icon" />
-              <h4 class="brabus_versprechen_heading">Hochwertigste <br />Materialien &amp; Stoffe</h4>
-            </div>
-            <div id="w-node-_8febcb92-967b-694b-8eee-03b03ac8042d-35dce9b0" class="brabus_block"><img
-                src="https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/60a15439bc3ffc1a1c2be66f_check-mark.svg"
-                loading="lazy" width="80" alt="" class="brabus_info_icon" />
-              <h4 class="brabus_versprechen_heading">Feinabstimmung &amp;<br />Leistungsoptimierung </h4>
-            </div>
-          </div>
-        </div>
-      </div> -->
+
   <div id="philosophie" class="philosophie tm-philosophie-container">
 
     <div class="tm-philosophie-flex">
@@ -346,6 +294,9 @@
               Fr.:<br /></strong>08:00 – 18:00 Uhr</p>
         </div>
       </div>
+      <div class="philosophie_text">
+        <h1 style="text-align:center; font-size:4rem;margin:0px 0px 30px 0px;">LET'S WORK </h3>
+      </div>
       <div class="kontakt_formular_map">
         <div class="embed-google-maps w-embed w-iframe"><iframe
             src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9836.128375512704!2d8.2664219!3d51.9516062!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc3aff6393af2d2e!2sTimur Scher Films!5e0!3m2!1sde!2sde!4v1604933091758!5m2!1sde!2sde"
@@ -355,9 +306,11 @@
           <div class="footer-contact-form w-form">
             <form id="wf-form-kontakt_formular" name="wf-form-kontakt_formular" data-name="kontakt_formular"
               action="https://submit-form.com/6s49DIZQ" method="post" data-wf-page-id="5fdbc1d703f812d735dce9b0"
-              data-wf-element-id="a7b205e3-6724-c1de-1da2-60ef1d2fb352"><label for="Name-3" class="field-label">Wie
-                können wir Ihnen helfen?</label><input class="main_kontakt_input w-input" maxlength="256" name="Name"
-                data-name="Name" placeholder="Vollständiger Name" type="text" id="Name-3" required /><input
+              data-wf-element-id="a7b205e3-6724-c1de-1da2-60ef1d2fb352">
+              <!-- <label for="Name-3" class="field-label">Wie
+                können wir Ihnen helfen?</label> -->
+              <input class="main_kontakt_input w-input" maxlength="256" name="Name" data-name="Name"
+                placeholder="Vollständiger Name" type="text" id="Name-3" required /><input
                 class="text-field-2 main_kontakt_input w-input" maxlength="256" name="E-Mail" data-name="E-Mail"
                 placeholder="E-Mail Adresse" type="email" id="E-Mail" required /><input
                 class="text-field-2 main_kontakt_input w-input" maxlength="256" name="Telefon" data-name="Telefon"
@@ -396,5 +349,86 @@
       </div>
     </div>
   </div>
+  <div id="videoPopup" class="popup">
+    <div class="popup-content">
+      <span class="close" onclick="closePopup()">&times;</span>
+      <video id="popupVideo" autoplay muted>
+        <source src="" type="video/mp4">
+      </video>
+    </div>
+  </div>
 
   <?php include('includes/footer.php') ?>
+  <style>
+    /* Popup backdrop */
+    .popup {
+      display: none;
+      position: fixed;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.6);
+      backdrop-filter: blur(4px);
+      justify-content: center;
+      align-items: center;
+      z-index: 1000;
+    }
+
+    /* Popup content */
+    .popup-content {
+      position: relative;
+      background: rgba(255, 255, 255, 0.1);
+      padding: 20px;
+      border-radius: 0px;
+      max-width: 90%;
+      max-height: 90%;
+      margin: 10px 0px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    /* Video inside popup */
+    .popup-content video {
+      width: 100%;
+      height: auto;
+      border-radius: 10px;
+    }
+
+    /* Close button */
+    .close {
+      position: absolute;
+      top: 5px;
+      right: 0px;
+      font-size: 28px;
+      font-weight: bold;
+      color: white;
+      cursor: pointer;
+      z-index: 99999;
+    }
+
+    .close:hover {
+      color: red;
+    }
+  </style>
+
+  <script>
+    function openPopup(src) {
+      const popup = document.getElementById('videoPopup');
+      const popupVideo = document.getElementById('popupVideo');
+      popup.style.display = 'flex';
+      popupVideo.querySelector('source').src = src;
+      popupVideo.load();
+      popupVideo.play();
+    }
+
+    function closePopup() {
+      const popup = document.getElementById('videoPopup');
+      const popupVideo = document.getElementById('popupVideo');
+      popup.style.display = 'none';
+      popupVideo.pause();
+      popupVideo.currentTime = 0;
+    }
+  </script>

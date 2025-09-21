@@ -230,19 +230,15 @@
 
   <div id="kontakt" class="kontakt">
     <div class="kontakt_wrapper">
-      <div class="kontakt_info">
+      <div class="kontakt_info" style="margin-top:36px;">
         <div id="w-node-a7b205e3-6724-c1de-1da2-60ef1d2fb32b-1d2fb328" class="kontakt_info_block"><img
             src="public/5fbe4625c882141c6f551a97_kontakt_weiss.png" loading="lazy" width="80" alt
             class="kontakt_info_bild" />
           <h4 class="kontakt_info_heading">Telefon &amp; E-Mail</h4>
-          <p class="kontakt_info_paragraph"><strong>T:
-
-            </strong><a href="tel:052476228530" class="link-2">05247 6228
+          <p class="kontakt_info_paragraph"><strong>T: </strong><a href="tel:052476228530" class="link-2">05247 6228
               530</a><strong><br />E: </strong><a href="mailto:info@Timur Scher Films.de" class="link-4">info@Timur
               Scher Films.de</a></p>
         </div>
-
-
         <div id="w-node-a7b205e3-6724-c1de-1da2-60ef1d2fb33b-1d2fb328" class="kontakt_info_block"><img
             src="public/5fbe46258416f6e33bb818d9_standort_weiss.png" loading="lazy" width="80" alt
             class="kontakt_info_bild" />
@@ -250,7 +246,6 @@
           <p class="kontakt_info_paragraph">Möllenbrocksweg 21,<br />33428
             Harsewinkel<br /></p>
         </div>
-
         <div id="w-node-a7b205e3-6724-c1de-1da2-60ef1d2fb345-1d2fb328" class="kontakt_info_block"><img
             src="public/5fbe46256e22447a483a02da_oeffnungszeiten_weiss.png" loading="lazy" width="80"
             sizes="(max-width: 1279px) 80px, (max-width: 1439px) 6vw, 80px" alt class="kontakt_info_bild" />
@@ -259,12 +254,10 @@
               Fr.:<br /></strong>08:00 – 18:00 Uhr</p>
         </div>
       </div>
-      <div style="margin: 30px 0px 50px 0px; text-align: center;">
-        <h3 class="philosophie_heading_work">LET's WORK</h3>
+      <div class="philosophie_text">
+            <h1 style="text-align:center; font-size:4rem;margin:0px 0px 30px 0px;">LET'S WORK </h3>
       </div>
       <div class="kontakt_formular_map">
-
-
         <div class="embed-google-maps w-embed w-iframe"><iframe
             src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9836.128375512704!2d8.2664219!3d51.9516062!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc3aff6393af2d2e!2sTimur Scher Films!5e0!3m2!1sde!2sde!4v1604933091758!5m2!1sde!2sde"
             width="100%" height="100%" frameborder="0" style="border:0;" allowfullscreen aria-hidden="false"
@@ -273,8 +266,10 @@
           <div class="footer-contact-form w-form">
             <form id="wf-form-kontakt_formular" name="wf-form-kontakt_formular" data-name="kontakt_formular"
               action="https://submit-form.com/6s49DIZQ" method="post" data-wf-page-id="5fdbc1d703f812d735dce9b0"
-              data-wf-element-id="a7b205e3-6724-c1de-1da2-60ef1d2fb352"><label for="Name-3" class="field-label">Wie
-                können wir Ihnen helfen?</label><input class="main_kontakt_input w-input" maxlength="256" name="Name"
+              data-wf-element-id="a7b205e3-6724-c1de-1da2-60ef1d2fb352">
+              <!-- <label for="Name-3" class="field-label">Wie
+                können wir Ihnen helfen?</label> -->
+                <input class="main_kontakt_input w-input" maxlength="256" name="Name"
                 data-name="Name" placeholder="Vollständiger Name" type="text" id="Name-3" required /><input
                 class="text-field-2 main_kontakt_input w-input" maxlength="256" name="E-Mail" data-name="E-Mail"
                 placeholder="E-Mail Adresse" type="email" id="E-Mail" required /><input

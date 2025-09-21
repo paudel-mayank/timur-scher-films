@@ -4034,12 +4034,12 @@ body {
     color: var(--white);
     background-color: #0000;
     border: 1px solid #ffffff26;
-    height: 80px;
+    height: 50px;
     margin-bottom: 20px;
-    padding-left: 25px;
+    padding-left: 20px;
     padding-right: 15px;
     font-family: Helvetica-Neue LT Pro, sans-serif;
-    font-size: 1.2em;
+    font-size: 1em;
     font-weight: 300;
     line-height: 1em;
     transition: border-color .3s
@@ -4059,7 +4059,7 @@ body {
 
 .textarea.main_kontakt_input {
     max-width: 100%;
-    min-height: 300px;
+    min-height: 150px;
     max-height: 1000px;
     padding-top: 20px;
     padding-bottom: 40px
@@ -4219,11 +4219,11 @@ body {
 
 .progress_bar {
     z-index: 9999;
-    background-color: var(--golden);
+    background-image: linear-gradient(90deg, #044396, #26086b 49%, rgb(255, 0, 0));
     perspective-origin: 0%;
     transform-origin: 0%;
     width: 100%;
-    height: 2px;
+    height: 3px;
     position: fixed;
     inset: 0% auto auto 0%;
     box-shadow: 0 0 10px 4px #ddb7364d
@@ -4447,7 +4447,7 @@ body {
 }
 
 .gradient-bar {
-    background-image: linear-gradient(90deg, #006fff, #6941c7 49%, #f07);
+    background-image: linear-gradient(90deg, #044396, #26086b 49%, rgb(255, 0, 0));
     height: 2px
 }
 
