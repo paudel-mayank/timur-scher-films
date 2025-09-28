@@ -5,7 +5,9 @@
                     src="Homepage/Logos/Timur Scher_weiß.png" loading="lazy" width="100" sizes="100px" alt
                     srcset="Homepage/Logos/Timur Scher_weiß.png " />
 
-                    <p style="margin:20px 0px;line-height:1.3em;opacity:0.7;" > Lorem ipsum dolor, sit amet consectetur adipisicing elit.  iste, temporibus libero dolorem expedita unde dolore odit earum eius aspernatur suscipit enim corrupti.</p>
+                <p style="margin:20px 0px;line-height:1.3em;opacity:0.7;"> Lorem ipsum dolor, sit amet consectetur
+                    adipisicing elit. iste, temporibus libero dolorem expedita unde dolore odit earum eius aspernatur
+                    suscipit enim corrupti.</p>
             </div>
             <div id="w-node-_54b84998-4975-7c2b-54a7-6056b929182a-b9291825" class="footer_info">
                 <div class="sub-heading">Services</div>
@@ -31,10 +33,9 @@
                         class="footer_social_logo" />
                     <div class="footer_social_link_text">Instagram</div>
                 </a><a href="https://vm.tiktok.com/ZSGMdpt3/" target="_blank"
-                    class="footer_social_platform w-inline-block"><img
-                        src="public/5ffcb00be618400f92834628_tiktok_icon.png" loading="lazy" width="20"
+                    class="footer_social_platform w-inline-block">
+                    <img src="public/5ffcb00be618400f92834628_tiktok_icon.png" loading="lazy" width="20"
                         sizes="(max-width: 991px) 20px, (max-width: 1279px) 2vw, (max-width: 1439px) 20px, 1vw" alt
-                        srcset="https://public/5ffcb00be618400f92834628_tiktok_icon-p-500.png 500w, https://public/5ffcb00be618400f92834628_tiktok_icon.png 512w"
                         class="footer_social_logo" />
                     <div class="footer_social_link_text">TikTok</div>
                 </a>
