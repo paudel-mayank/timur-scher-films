@@ -5,7 +5,9 @@
                     src="Homepage/Logos/Timur Scher_weiß.png" loading="lazy" width="100" sizes="100px" alt
                     srcset="Homepage/Logos/Timur Scher_weiß.png " />
 
-                    <p style="margin:20px 0px;line-height:1.3em;opacity:0.7;" > Lorem ipsum dolor, sit amet consectetur adipisicing elit.  iste, temporibus libero dolorem expedita unde dolore odit earum eius aspernatur suscipit enim corrupti.</p>
+                <p style="margin:20px 0px;line-height:1.3em;opacity:0.7;"> Lorem ipsum dolor, sit amet consectetur
+                    adipisicing elit. iste, temporibus libero dolorem expedita unde dolore odit earum eius aspernatur
+                    suscipit enim corrupti.</p>
             </div>
             <div id="w-node-_54b84998-4975-7c2b-54a7-6056b929182a-b9291825" class="footer_info">
                 <div class="sub-heading">Services</div>

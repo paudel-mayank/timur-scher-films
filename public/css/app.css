@@ -2048,7 +2048,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Extended;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6552050a5f262e909af3_HelveticaNeueLTPro-LtExO.otf)format("opentype");
+    src: url('../../aloevera-display/ad/AloeveraDisplay-Regular.otf')format("opentype");
     font-weight: 300;
     font-style: italic;
     font-display: swap
@@ -2056,7 +2056,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Extended;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6552c9481b0cfac52f2a_HelveticaNeueLTPro-LtEx.otf)format("opentype");
+    src: url('../../aloevera-display/ad/AloeveraDisplay-Regular.otf')format("opentype");
     font-weight: 300;
     font-style: normal;
     font-display: swap
@@ -2064,7 +2064,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Extended;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6552194c143a2be1de3b_HelveticaNeueLTPro-Ex.otf)format("opentype");
+    src: url('../../aloevera-display/ad/AloeveraDisplay-Medium.otf')format("opentype");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -2072,7 +2072,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Extended;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6552ec8db4942ac48c5f_HelveticaNeueLTPro-ExO.otf)format("opentype");
+    src: url('../../aloevera-display/ad/AloeveraDisplay-Medium.otf')format("opentype");
     font-weight: 400;
     font-style: italic;
     font-display: swap
@@ -2080,7 +2080,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Extended;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6553374b3540a8212049_HelveticaNeueLTPro-MdEx.otf)format("opentype");
+    src: url("../../aloevera-display/ad/AloeveraDisplay-SemiBold.otf")format("opentype");
     font-weight: 500;
     font-style: normal;
     font-display: swap
@@ -2088,7 +2088,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Extended;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe65532f48e77b9c757bae_HelveticaNeueLTPro-MdExO.otf)format("opentype");
+    src: url("../../aloevera-display/ad/AloeveraDisplay-SemiBoldItalic.otf")format("opentype");
     font-weight: 500;
     font-style: italic;
     font-display: swap
@@ -2096,7 +2096,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Extended;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe65523dc9d4348f9c1eb3_HelveticaNeueLTPro-HvExO.otf)format("opentype");
+    src: url("../../aloevera-display/ad/AloeveraDisplay-Bold.otf")format("opentype");
     font-weight: 800;
     font-style: italic;
     font-display: swap
@@ -2104,7 +2104,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Extended;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6552050a5f30dc909af2_HelveticaNeueLTPro-HvEx.otf)format("opentype");
+    src: url("../../aloevera-display/ad/AloeveraDisplay-Bold.otf")format("opentype");
     font-weight: 800;
     font-style: normal;
     font-display: swap
@@ -2112,7 +2112,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Extended;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6552858e8180d96a6210_HelveticaNeueLTPro-BlkEx.otf)format("opentype");
+    src: url("../../aloevera-display/ad/AloeveraDisplay-ExtraBold.otf")format("opentype");
     font-weight: 900;
     font-style: normal;
     font-display: swap
@@ -2120,7 +2120,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Extended;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe65522f48e780ef757bad_HelveticaNeueLTPro-BlkExO.otf)format("opentype");
+    src: url("../../aloevera-display/ad/AloeveraDisplay-ExtraBold.otf")format("opentype");
     font-weight: 900;
     font-style: italic;
     font-display: swap
@@ -2128,7 +2128,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Extended;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe65522ecc0b80936ce27b_HelveticaNeueLTPro-BdEx.otf)format("opentype");
+    src: url("../../aloevera-display/ad/AloeveraDisplay-Bold.otf")format("opentype");
     font-weight: 700;
     font-style: normal;
     font-display: swap
@@ -2136,7 +2136,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Extended;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6552b7f8f2e11d0dcba5_HelveticaNeueLTPro-BdExO.otf)format("opentype");
+    src: url("../../aloevera-display/ad/AloeveraDisplay-Bold.otf")format("opentype");
     font-weight: 700;
     font-style: italic;
     font-display: swap
@@ -2144,7 +2144,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Condensed;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe65532ecc0bae186ce28b_HelveticaNeueLTPro-UltLtCnO.otf)format("opentype");
+    src: url('../../aloevera-display/ad/Aloeveradisplaycondensed-Thin.otf')format("opentype");
     font-weight: 100;
     font-style: italic;
     font-display: swap
@@ -2152,7 +2152,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Condensed;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6553e292283d8c44af97_HelveticaNeueLTPro-UltLtCn.otf)format("opentype");
+    src: url('../../aloevera-display/ad/Aloeveradisplaycondensed-Thin.otf')format("opentype");
     font-weight: 100;
     font-style: normal;
     font-display: swap
@@ -2160,7 +2160,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Condensed;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6553a005d599dbd39ac1_HelveticaNeueLTPro-ThCnO.otf)format("opentype");
+    src: url("../../aloevera-display/ad/Aloeveradisplaycondensed-Light.otf")format("opentype");
     font-weight: 200;
     font-style: italic;
     font-display: swap
@@ -2168,7 +2168,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Condensed;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6553ec8db451c1c48c60_HelveticaNeueLTPro-ThCn.otf)format("opentype");
+    src: url("../../aloevera-display/ad/Aloeveradisplaycondensed-Light.otf")format("opentype");
     font-weight: 200;
     font-style: normal;
     font-display: swap
@@ -2176,7 +2176,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Condensed;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe65528b20afbbfc344c61_HelveticaNeueLTPro-LtCn.otf)format("opentype");
+    src: url("../../aloevera-display/ad/Aloeveradisplaycondensed-Regular.otf")format("opentype");
     font-weight: 300;
     font-style: normal;
     font-display: swap
@@ -2184,7 +2184,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Condensed;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6552b7f8f2219c0dcba6_HelveticaNeueLTPro-LtCnO.otf)format("opentype");
+    src: url("../../aloevera-display/ad/Aloeveradisplaycondensed-Regular.otf")format("opentype");
     font-weight: 300;
     font-style: italic;
     font-display: swap
@@ -2192,7 +2192,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Condensed;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6552f534915139698b5a_HelveticaNeueLTPro-Cn.otf)format("opentype");
+    src: url("../../aloevera-display/ad/Aloeveradisplaycondensed-Medium.otf")format("opentype");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -2200,7 +2200,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Condensed;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe65523dc9d4c59b9c1eb2_HelveticaNeueLTPro-CnO.otf)format("opentype");
+    src: url("../../aloevera-display/ad/Aloeveradisplaycondensed-Medium.otf")format("opentype");
     font-weight: 400;
     font-style: italic;
     font-display: swap
@@ -2208,7 +2208,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Condensed;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe65535746c64e710348a2_HelveticaNeueLTPro-MdCn.otf)format("opentype");
+    src: url("../../aloevera-display/ad/Aloeveradisplaycondensed-Medium.otf")format("opentype");
     font-weight: 500;
     font-style: normal;
     font-display: swap
@@ -2216,7 +2216,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Condensed;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe65532c142d464d0ad006_HelveticaNeueLTPro-MdCnO.otf)format("opentype");
+    src: url("../../aloevera-display/ad/Aloeveradisplaycondensed-Medium.otf")format("opentype");
     font-weight: 500;
     font-style: italic;
     font-display: swap
@@ -2224,7 +2224,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Condensed;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6551f9ba076e1c815dc4_HelveticaNeueLTPro-BdCnO.otf)format("opentype");
+    src: url("../../aloevera-display/ad/Aloeveradisplaycondensed-Bold.otf")format("opentype");
     font-weight: 700;
     font-style: italic;
     font-display: swap
@@ -2232,7 +2232,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Condensed;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6551c9481b4889c52f28_HelveticaNeueLTPro-BdCn.otf)format("opentype");
+    src: url("../../aloevera-display/ad/Aloeveradisplaycondensed-Bold.otf")format("opentype");
     font-weight: 700;
     font-style: normal;
     font-display: swap
@@ -2240,7 +2240,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Condensed;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6552c9481b40d1c52f29_HelveticaNeueLTPro-HvCnO.otf)format("opentype");
+    src: url("../../aloevera-display/ad/Aloeveradisplaycondensed-ExtraBold.otf")format("opentype");
     font-weight: 800;
     font-style: italic;
     font-display: swap
@@ -2248,7 +2248,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Condensed;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6552f712f421943a7b17_HelveticaNeueLTPro-HvCn.otf)format("opentype");
+    src: url("../../aloevera-display/ad/Aloeveradisplaycondensed-ExtraBold.otf")format("opentype");
     font-weight: 800;
     font-style: normal;
     font-display: swap
@@ -2256,7 +2256,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Condensed;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6552858e81ca2f6a620f_HelveticaNeueLTPro-BlkCn.otf)format("opentype");
+    src: url("../../aloevera-display/ad/Aloeveradisplaycondensed-ExtraBold.otf")format("opentype");
     font-weight: 900;
     font-style: normal;
     font-display: swap
@@ -2264,7 +2264,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Condensed;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6552721411e3e30f3a2a_HelveticaNeueLTPro-BlkCnO.otf)format("opentype");
+    src: url("../../aloevera-display/ad/Aloeveradisplaycondensed-ExtraBold.otf")format("opentype");
     font-weight: 900;
     font-style: italic;
     font-display: swap
@@ -2272,7 +2272,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Outline \& Extra Black Condensed;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6552876382ac1a035526_HelveticaNeueLTPro-BdOu.otf)format("opentype");
+    src: url("../../aloevera-display/ad/Aloeveradisplaycondensed-Bold.otf")format("opentype");
     font-weight: 700;
     font-style: normal;
     font-display: swap
@@ -2280,7 +2280,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Outline \& Extra Black Condensed;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe655368bdfaed6adb2547_HelveticaNeueLTPro-XBlkCnO.otf)format("opentype");
+    src: url("../../aloevera-display/ad/Aloeveradisplaycondensed-ExtraBold.otf")format("opentype");
     font-weight: 900;
     font-style: italic;
     font-display: swap
@@ -2288,7 +2288,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Outline \& Extra Black Condensed;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6553a005d5d90bd39ac2_HelveticaNeueLTPro-XBlkCn.otf)format("opentype");
+    src: url("../../aloevera-display/ad/Aloeveradisplaycondensed-ExtraBold.otf")format("opentype");
     font-weight: 900;
     font-style: normal;
     font-display: swap
@@ -2296,7 +2296,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe655383a32bb2a4ac1479_HelveticaNeueLTPro-UltLtIt.otf)format("opentype"), url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe655383a32bb2a4ac1479_HelveticaNeueLTPro-UltLtIt.otf)format("opentype");
+    src: url("../../aloevera-display/ad/AloeveraDisplay-ThinItalic.otf")format("opentype");
     font-weight: 100;
     font-style: italic;
     font-display: swap
@@ -2304,7 +2304,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe65533f1d6cd006ef3153_HelveticaNeueLTPro-UltLt.otf)format("opentype"), url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe65533f1d6cd006ef3153_HelveticaNeueLTPro-UltLt.otf)format("opentype");
+    src: url('../../aloevera-display/ad/AloeveraDisplay-Thin.otf')format("opentype"), url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe65533f1d6cd006ef3153_HelveticaNeueLTPro-UltLt.otf)format("opentype");
     font-weight: 100;
     font-style: normal;
     font-display: swap
@@ -2312,7 +2312,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6553f6e99af8ff125e4e_HelveticaNeueLTPro-ThIt.otf)format("opentype");
+    src: url('../../aloevera-display/ad/AloeveraDisplay-Lightitalic.otf')format("opentype");
     font-weight: 200;
     font-style: italic;
     font-display: swap
@@ -2320,7 +2320,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6553930725bae3746150_HelveticaNeueLTPro-Th.otf)format("opentype");
+    src: url('../../aloevera-display/ad/AloeveraDisplay-Thin.otf')format("opentype");
     font-weight: 200;
     font-style: normal;
     font-display: swap
@@ -2328,7 +2328,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6552858e81520d6a6214_HelveticaNeueLTPro-LtIt.otf)format("opentype");
+    src: url('../../aloevera-display/ad/AloeveraDisplay-Lightitalic.ttf')format("opentype");
     font-weight: 300;
     font-style: italic;
     font-display: swap
@@ -2336,7 +2336,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe65525dfdd32942e6488b_HelveticaNeueLTPro-Lt.otf)format("opentype");
+    src: url("../../aloevera-display/ad/AloeveraDisplay-Light.otf")format("opentype");
     font-weight: 300;
     font-style: normal;
     font-display: swap
@@ -2344,7 +2344,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6552dc69ca5026e5c76a_HelveticaNeueLTPro-It.otf)format("opentype");
+    src: url("../../aloevera-display/ad/AloeveraDisplay-Regular.otf")format("opentype");
     font-weight: 400;
     font-style: italic;
     font-display: swap
@@ -2352,7 +2352,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe655356c51c507fb8c66b_HelveticaNeueLTPro-Roman.otf)format("opentype");
+    src: url("../../aloevera-display/ad/AloeveraDisplay-Regular.otf")format("opentype");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -2360,7 +2360,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe65535420e63bf3bf0944_HelveticaNeueLTPro-MdIt.otf)format("opentype");
+    src: url("../../aloevera-display/ad/AloeveraDisplay-Medium.otf")format("opentype");
     font-weight: 500;
     font-style: italic;
     font-display: swap
@@ -2368,7 +2368,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6553005919d7088be906_HelveticaNeueLTPro-Md.otf)format("opentype");
+    src: url("../../aloevera-display/ad/AloeveraDisplay-Medium.otf")format("opentype");
     font-weight: 500;
     font-style: normal;
     font-display: swap
@@ -2376,7 +2376,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6552194c1497e6e1de3a_HelveticaNeueLTPro-BdIt.otf)format("opentype");
+    src: url("../../aloevera-display/ad/AloeveraDisplay-Bold.otf")format("opentype");
     font-weight: 700;
     font-style: italic;
     font-display: swap
@@ -2384,7 +2384,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe65517214115ed50f3a28_HelveticaNeueLTPro-Bd.otf)format("opentype");
+    src: url("../../aloevera-display/ad/AloeveraDisplay-Bold.otf")format("opentype");
     font-weight: 700;
     font-style: normal;
     font-display: swap
@@ -2392,7 +2392,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe655283a32b02d9ac1468_HelveticaNeueLTPro-HvIt.otf)format("opentype");
+    src: url("../../aloevera-display/ad/AloeveraDisplay-ExtraBold.otf")format("opentype");
     font-weight: 800;
     font-style: italic;
     font-display: swap
@@ -2400,7 +2400,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe655268bdfa42f9db2544_HelveticaNeueLTPro-Hv.otf)format("opentype");
+    src: url("../../aloevera-display/ad/AloeveraDisplay-ExtraBold.otf")format("opentype");
     font-weight: 800;
     font-style: normal;
     font-display: swap
@@ -2408,15 +2408,14 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6552ec8099f2d96480cb_HelveticaNeueLTPro-BlkIt.otf)format("opentype");
-    font-weight: 900;
+    src: url("../../aloevera-display/ad/AloeveraDisplay-ExtraBold.otf")format("opentype");
     font-style: italic;
     font-display: swap
 }
 
 @font-face {
     font-family: Helvetica-Neue LT Pro;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe65527214110be80f3a29_HelveticaNeueLTPro-Blk.otf)format("opentype");
+    src: url("../../aloevera-display/ad/AloeveraDisplay-ExtraBold.otf")format("opentype");
     font-weight: 900;
     font-style: normal;
     font-display: swap
@@ -2424,7 +2423,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Extended;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6553b684141293e57668_HelveticaNeueLTPro-UltLtExO.otf)format("opentype");
+    src: url("../../aloevera-display/ad/AloeveraDisplay-Thin.otf")format("opentype");
     font-weight: 100;
     font-style: italic;
     font-display: swap
@@ -2432,7 +2431,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Extended;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe6553050a5ff6e3909af4_HelveticaNeueLTPro-UltLtEx.otf)format("opentype");
+    src: url("../../aloevera-display/ad/AloeveraDisplay-Thin.otf")format("opentype");
     font-weight: 100;
     font-style: normal;
     font-display: swap
@@ -2440,7 +2439,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Extended;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe65533dc9d461f59c1eb4_HelveticaNeueLTPro-ThExO.otf)format("opentype");
+    src: url("../../aloevera-display/ad/AloeveraDisplay-Light.otf")format("opentype");
     font-weight: 200;
     font-style: italic;
     font-display: swap
@@ -2448,7 +2447,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
     font-family: Helvetica-Neue LT Pro Extended;
-    src: url(https://cdn.prod.website-files.com/5f931a53edfb8c55904a765a/5fbe65532ba642383ae52a23_HelveticaNeueLTPro-ThEx.otf)format("opentype");
+    src: url("../../aloevera-display/ad/AloeveraDisplay-Light.otf")format("opentype");
     font-weight: 200;
     font-style: normal;
     font-display: swap
