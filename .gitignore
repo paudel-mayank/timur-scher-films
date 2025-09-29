@@ -2,4 +2,5 @@ Homepage/
 HomePage/*
 *.txt
 videos/*
-videos/
+videos/*
+*.zip
