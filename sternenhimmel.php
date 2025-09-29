@@ -255,7 +255,7 @@
         </div>
       </div>
       <div class="philosophie_text">
-            <h1 style="text-align:center; font-size:4rem;margin:0px 0px 30px 0px;">LET'S WORK </h3>
+        <h1 style="text-align:center; font-size:4rem;margin:0px 0px 30px 0px;">LET'S WORK </h3>
       </div>
       <div class="kontakt_formular_map">
         <div class="embed-google-maps w-embed w-iframe"><iframe
@@ -269,8 +269,8 @@
               data-wf-element-id="a7b205e3-6724-c1de-1da2-60ef1d2fb352">
               <!-- <label for="Name-3" class="field-label">Wie
                 können wir Ihnen helfen?</label> -->
-                <input class="main_kontakt_input w-input" maxlength="256" name="Name"
-                data-name="Name" placeholder="Vollständiger Name" type="text" id="Name-3" required /><input
+              <input class="main_kontakt_input w-input" maxlength="256" name="Name" data-name="Name"
+                placeholder="Vollständiger Name" type="text" id="Name-3" required /><input
                 class="text-field-2 main_kontakt_input w-input" maxlength="256" name="E-Mail" data-name="E-Mail"
                 placeholder="E-Mail Adresse" type="email" id="E-Mail" required /><input
                 class="text-field-2 main_kontakt_input w-input" maxlength="256" name="Telefon" data-name="Telefon"

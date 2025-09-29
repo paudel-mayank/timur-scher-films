@@ -85,7 +85,7 @@
         class="background-video w-background-video w-background-video-atom">
         <video id="9c993f36-06e6-53e4-af82-389426e75243-video" autoplay loop muted playsinline data-wf-ignore="true"
           data-object-fit="cover">
-          <source src="/back.mp4" type="video/mp4">
+          <source src="/videos/back.mp4" type="video/mp4">
         </video>
         <div class="_3_column_service">
           <a id="w-node-_8dbc4512-193f-9318-b19c-c6f2c1f8d64c-35dce9b0" data-w-id="8dbc4512-193f-9318-b19c-c6f2c1f8d64c"
@@ -107,8 +107,7 @@
             class="service_block w-inline-block">
             <div data-w-id="ec072127-c080-f8c1-c737-920514b292f9" class="service_image_box-shadow">
               <h2 class="service_headline">Musikvideo</h2>
-            </div><img src="/Homepage/Musikvideo/Fotos/Foto 03.02.25, 13 26 22.jpg" loading="lazy" alt
-              class="service_image" />
+            </div><img src="/Homepage/Musikvideo/Fotos/a.jpg" loading="lazy" alt class="service_image" />
           </a>
         </div>
         <div class="_3_column_service">

@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8" />
     <title>Timur Scher Films </title>
-    <link rel="icon" type="image/png" href="public/favicon.png">
+    <link rel="icon" type="image/png" href="/fav.png">
 
     <meta property="og:type" content="website" />
     <!-- <meta content="summary_large_image" name="twitter:card" /> -->
